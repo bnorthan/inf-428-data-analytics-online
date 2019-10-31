@@ -1,0 +1,8 @@
+title: INF-428 Data Analytics Online 
+description:  On line version of INF 428
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
+
