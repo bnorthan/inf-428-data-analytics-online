@@ -6,9 +6,9 @@
 Install KNIME and Annaconda, run example work flows and programs. 
 
 ### Read
-[So you wanna be a data scientist](https://mashable.com/2014/12/25/data-scientist/)
-KNIME Beginner's Luck Chapter 1
-Python Review
+[So you wanna be a data scientist](https://mashable.com/2014/12/25/data-scientist/)  
+KNIME Beginner's Luck Chapter 1  
+Python Review  
 
 ### Install Sofware
 [KNIME](https://www.knime.com/downloads)
