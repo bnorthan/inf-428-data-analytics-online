@@ -16,9 +16,9 @@ Python Review
 
 ### Discuss
 (5 points)  
-Tell us about your self (Initial post)  
-What is data science?  
-What is Machine Learning?  
+Tell us about your self (Initial post)?  
+How have you used datascience in your life?  
+What are some real life example of machine learning applications?  
 
 ### Assignment 1
 Software Installation and running tests and workflows (15 points)
@@ -27,16 +27,18 @@ Software Installation and running tests and workflows (15 points)
 ### Goals
 Summarize data using measures of typical value, Open and explore .csv files, use measures of variation, apply significance tests (t-tests, p-values),  
 
-### Read
+### Readdfgdf
 [Why Standard Deviation](http://www.separatinghyperplanes.com/2014/04/why-do-statisticians-use-standard.html)  
 [538 Scientists Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)  
 [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)  
 
 ### Discuss
 
+Why do we use t-tests and p-values??  
+
 Explain what a ‘single sample t-test’ and a ‘independent samples t-test’ are, give an example application for each, and explain the differences.  
 
-What is a normal distribution?  
+What is a normal distribution?  Why do we need to know and use different types of statistical distributions?
 
 ### Assignment 2
 
@@ -52,7 +54,11 @@ KNIME Beginner's Luck Chapter 5
 [10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html#min)  
 
 ### Discuss
-What is Pandas and what is it used for?
+When would you use the python Pandas library instead of a spread sheet?? 
+
+What does the term "data wrangling mean" (you can google it).  Describe times you've had to do "data wrangling".
+
+Describe situations where you've had to "clean" data before you used it.  What did you have to do to the data before doing numerical analysis?  
 
 ### Assignment
 
@@ -69,7 +75,10 @@ KNIME Beginner's luck Chapter 3
 [Pyplot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)  
 
 ### Discuss
-For the visualization assignment you will be plotting data that is of interest to you.  Choose of a topic that is of interest to you (for example sports, economics, politics, etc.) and start a discussion about your topic, and where to find data for your topic. 
+For the visualization assignment you will be plotting data that is of interest to you.  Choose of a topic that is of interest to you (for example sports, economics, politics, etc.) and start a discussion about your topic, and where to find data for your topic.
+
+What difficulties did you encounter when looking for data??  Discuss with other students and help each other find data.
+ 
 ### Assignment
 Find data that is interesting to you.  
 Then create 10-20 different visualizations (1 point each)- Compile your visualizations into a web presentation.   
@@ -86,10 +95,15 @@ KNIME Beginner's Luck Chapter 4
 
 
 ### Discuss
-What is machine learning?  
-What is the difference between Classification and Regression?  
-What is the difference between Sensitivity and Specificity?   
-What is overfitting?  
+
+How is machine learning used in real life?  
+
+Give examples of machine learning applications that use classification, give examples of machine learning applications that use regression.  
+
+If you were designing a classification system to detect whether an animal is a elephant or a mouse what features would you use?
+
+If you were designing a classification system to detect whether an animal is a dog or a cat what features would you use?? If it more difficult to teach a computer the difference between a elephant and a mouse, compared to the difference between a dog and a cat?? 
+ 
 
 ### Assignment
 K-Nearest Neighbor Assignment  
