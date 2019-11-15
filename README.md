@@ -8,6 +8,15 @@ gmail: bnorthan@gmail.com
 ualbany mail: bnorthan@albany.edu  
 skype: brian.northan  
 twitter: truenorth_ia (https://twitter.com/truenorth_ia)  
+github: bnorthan (https://github.com/bnorthan)  
+
+## Computers
+
+Assignments require access to a laptop or desktop.
+
+## Text Book
+
+* KNIME Beginner's Luck  
 
 ## Links
 [Course Goals](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/CourseGoals)  

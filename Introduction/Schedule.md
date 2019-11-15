@@ -27,7 +27,7 @@ Software Installation and running tests and workflows (15 points)
 ### Goals
 Summarize data using measures of typical value, Open and explore .csv files, use measures of variation, apply significance tests (t-tests, p-values),  
 
-### Readdfgdf
+### Read
 [Why Standard Deviation](http://www.separatinghyperplanes.com/2014/04/why-do-statisticians-use-standard.html)  
 [538 Scientists Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)  
 [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)  
