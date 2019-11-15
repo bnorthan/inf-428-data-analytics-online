@@ -21,7 +21,8 @@
 (5 points)
 Tell us about your self (Initial post)?  
 What operating system do you use?  
-How have you used datascience in your life?  
+Grad Students, how are you using data science in your research?  
+Undergrad students, are you using data science in your current projects?  
 What are the skills you need to be a data scientist?  
 What are some real life example of machine learning applications?  
 
@@ -46,5 +47,12 @@ Anaconda is a collection of apps for data analysis.  The Anaconda distribution i
 [Download here](https://www.anaconda.com/distribution/#windows)  
 [Instalation instructions on Windows](https://docs.anaconda.com/anaconda/install/windows/)  
 [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)  
+
+### IPython Notebook
+* Also known as Jupyter notebook  
+* Web based computational environment  
+* Lets the user run Python on a web page  
+* Divide computional steps into cells.  
+
 
 
