@@ -33,6 +33,11 @@ KNIME is a GUI based data analsyis platform.  It allows us to create visual work
 ### Install KNIME
 [Download from here](https://www.knime.com/downloads)  
 Read KNIME beginner's luck chapter 1.  
+Read KNIME Getting Started [here](https://www.knime.com/knime)
+Read KNIME Hub [here](https://www.knime.com/blog/the-knime-hub-share-and-collaborate)
+
+### Run KNIME 'Hello World'
+(3 points)  
 
 If you have any issues, please post on our discussion group. 
 
@@ -54,5 +59,9 @@ Anaconda is a collection of apps for data analysis.  The Anaconda distribution i
 * Lets the user run Python on a web page  
 * Divide computional steps into cells.  
 
+### Run IPython notebook 'hello world'
+(3 points)  
+
+If you have any issues, please post on our discussion group. 
 
 
