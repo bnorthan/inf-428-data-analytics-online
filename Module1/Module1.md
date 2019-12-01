@@ -1,5 +1,15 @@
 # Module 1
 
+## January 22-29
+
+## Schedule
+| sub-module|Description|
+|---|---
+|[What is Data Analysis](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/WhatIsDataAnalysis) | What is Data Analysis?<br>What skills are needed for Data Analysis? |
+|[Discussion](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Discussion) | Discuss your previous experience with Data Analysis |
+|[KNIME](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIME) | What is KNIME?<br> Install KNIME<br> Run simple examples | 
+|[Python](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Python) | Why Python? Why Annaconda? <br>Install Python<br> Run simple examples | 
+
 ## What is Data Analysis?
 
 * Data Analysis is all about numbers
@@ -17,7 +27,7 @@
 ## Read
 [A guide to 2015s hottest profession](https://mashable.com/2014/12/25/data-scientist/)
 
-## Discuss
+## Discuss (post by Sunday night)
 (5 points)
 Tell us about your self (Initial post)?  
 What operating system do you use?  
@@ -36,7 +46,7 @@ Read KNIME beginner's luck chapter 1.
 Read KNIME Getting Started [here](https://www.knime.com/knime)
 Read KNIME Hub [here](https://www.knime.com/blog/the-knime-hub-share-and-collaborate)
 
-### Run KNIME 'Hello World'
+### Run KNIME 'Hello World' (due Tuesday night)
 (3 points)  
 
 If you have any issues, please post on our discussion group. 
