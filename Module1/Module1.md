@@ -10,6 +10,12 @@
 
 test over
 
+| sub-module|Description|
+|---|---|
+|[What is Data Analysis](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/WhatIsDataAnalysis) | What is Data Analysis?<br>What skills are needed for Data Analysis? |
+
+test 2 over
+
 ## Schedule
 | sub-module|Description|
 |---|---|
