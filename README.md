@@ -22,7 +22,7 @@ Assignments require access to a laptop or desktop.
 [Course Goals](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/CourseGoals)  
 [Schedule](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/Schedule)  
 [Module 1 Introduction and tools](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Module1)  
-[Module 2 Statistics]()  
+[Module 2 Statistics](Module2/Module2)  
 [Module 3 Pandas and Data Wrangling with KNIME]()  
 [Module 4 Visualization]()  
 [Module 5 Machine Learning]()  
