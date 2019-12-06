@@ -45,5 +45,22 @@ The p-value is the probability of obtaining the observed sample results (or a mo
 	<li> high P -> $\overline{x}$ more likely to be close to $\mu_0$,</li>
 </ul>  
 
+## INDEPENDENT (UNPAIRED) SAMPLES
+
+* Tests if mean values are different between two samples
+* Example: blood pressure between two groups (men and women)
+* [Read Wikipedia Explanation](https://en.wikipedia.org/wiki/Student%27s_t-test#Independent_.28unpaired.29_samples) 
+
+## PAIRED SAMPLES
+* Tests if mean values are different when a group is tested twice  
+* Example: blood pressure before and after a treatment
+* [Read Wikipedia Explanation](https://en.wikipedia.org/wiki/Student%27s_t-test#Paired_samples)  
+
+
+
+
+
+
+
 
 

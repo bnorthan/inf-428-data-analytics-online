@@ -9,7 +9,8 @@
 |---|---|
 |[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Statistics) | Why do we use statistical tests?<br> Why do we need different types of statistical distributions? |
 |[Descriptive Statistics in Practice](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/StatisticsInPractice) | Use Python and KNIME to calculate descriptive statistics|  
-|[Hypothesis Testing](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/PValuesTTests) | P-Values and T-Tests|  
+|[Hypothesis Testing](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/HypothesisTesting) | P-Values and T-Tests|  
+|[Hypothesis Testing In Practice](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/HypothesisTestingInPractice) | P-Values and T-Tests in KNIME and Python|  
 |[Distributions](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Distributions) | Normal Distributions<br> Confidence Intervals|  
 |[Discussion](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Discussion) | <br> |  
 |[Assignment Caffeine Metabolism](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Assignment) | Apply concepts on real data<br> Repeat another researchers results |
