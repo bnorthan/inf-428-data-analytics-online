@@ -4,7 +4,7 @@ HINTS:
 
 Look at notebook Ind. T-Test Baseball Teams.ipynb (notebooks/statistics) and KNIME workflow ‘Statistics’ to see examples that are relevant. 
 
-http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438  
+Read this experiment on [Muscle Metabolism](http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438)  
 
 The above link summarizes "A study of the effect of caffeine on muscle metabolism".  You will attempt to reproduce their results in both KNIME and IPython notebook.
 You will have to perform steps 1 through 5 in both KNIME and in IPython notebook
@@ -14,7 +14,7 @@ You will have to perform steps 1 through 5 in both KNIME and in IPython notebook
 3. Produce Histograms both of the placebo and Caffeine groups.
 bonus Overlay both Histograms on the same plot.
 4.  Perform an independent samples t-test between the Placebo and Caffeine groups.
- 5.  Do the results agree with the results on the linked webpage (http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438)??
+ 5.  Do the results agree with the results of the original [experiment](http://learntech.uwe.ac.uk/da/Default.aspx?pageid=1438)??
 6.  What is a normal distribution?
 7.   Research how to calculate confidence intervals of a mean value assuming a normal distribution using Python and R (should be able to do it in 1 line of code).  Show the line of code in each language and talk about how they are the same and different. 
 8.  What does the example notebook ‘notebooks/Statistics/NormalDistribution’ do??
