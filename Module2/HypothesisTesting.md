@@ -36,11 +36,12 @@ The p-value is the probability of obtaining the observed sample results (or a mo
 * The single sample t-test tests the null hypothesis that the population mean is equal to a given number.
 
 <h4>Single sample t-test</h4>
-					<ul>
-					<li> $\overline{x}$ sample mean</li>
-					<li>$\mu_0$ hypothesis mean</li>
-					<li> Null hypothesis -> $\overline{x}=\mu_0$</li>
-					<li> high P -> $\overline{x}$ more likely to be close to $\mu_0$,</li>
-					</ul>
+<ul>
+	<li> $\overline{x}$ sample mean</li>
+	<li>$\mu_0$ hypothesis mean</li>
+	<li> Null hypothesis -> $\overline{x}=\mu_0$</li>
+	<li> high P -> $\overline{x}$ more likely to be close to $\mu_0$,</li>
+</ul>  
+
 
 
