@@ -1,5 +1,7 @@
 Assignment 2 - 20 points
 
+Submission - Submit a word document through Blackboard which contains answers to the assignment questions, and your KNIME workflow files, and IPython nobebook files. See detailed instructions from Assignment 1 [here] that explain how to .zip these files and submit via blackboard.     
+
 HINTS:    
 
 Look at notebook Ind. T-Test Baseball Teams.ipynb (notebooks/statistics) and KNIME workflow ‘Statistics’ to see examples that are relevant. 

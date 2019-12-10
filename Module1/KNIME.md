@@ -12,11 +12,12 @@ Read KNIME Hub [here](https://www.knime.com/blog/the-knime-hub-share-and-collabo
 ### Run KNIME 'Hello World' (due Tuesday night)
 (3 points)  
 
-1.  Read above materials
+1. Read above materials
 2. Join KNIME Hub
-3.  Download INF 428 Examples
+3. Download INF 428 Examples
 4. Run Hello World example
-5. On the 'Hello World' creator node open the 'Manually created table'
+5. On the 'Hello World' creator node open the 'Manually created table'.
+6. Take a screen shot of the result, embed into a word document and submit on Blackboard.  
 
 If you have any issues, please post on our discussion group. 
 
