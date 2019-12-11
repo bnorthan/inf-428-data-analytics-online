@@ -2,26 +2,28 @@
 
 ## January 22-29
 
-## Schedule
+## Marks Checklist (20 marks)
 
+1.  Discussion (6 points)
+2.  Install KNIME 
+3.  Join KNIME hub, get my KNIME example, and run it. 
+3.  Install Annaconda. 
+4.  Join Git hub, get my IPython notebook example and run it.
+4.  Open CSV files in IPython notebook, and in KNIME.
+5. Find a new CSV file online, create a small KNIME workflow that simply opens the file, and upload the workflow to KNIME Hub. (7 marks)
+8.  Create a small IPython notebook that opens the same CSV file and submit on Github. (7 marks)
+
+
+## Schedule
 
 | sub-module|Description|
 |---|---|
 |[What is Data Analysis](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/WhatIsDataAnalysis) | What is Data Analysis?<br>What skills are needed for Data Analysis? |
 |[Discussion](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Discussion) | Discuss your previous experience with Data Analysis |
 |[KNIME](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIME) | What is KNIME?<br> Install KNIME<br> Get and run example from KNIME HUB |
-|[Python](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Python) | Why Python? Why Annaconda? <br>Install Python<br> Get and run example from Github|  
-|[CSV Files](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/CSV) | What are CSV files? <br>Open CSV files in KNIME and Python<br>|
-
-
-## Marks Checklist (20 marks)
-
-1.  Discussion (5 points)
-2.  Install KNIME, join KNIME hub, run KNIME example (5 points)
-3.  Install Annaconda, join Git hub, run IPython notebook example (5 points)
-4.  Open CSV files in IPython notebook, and in KNIME (5 points)
-
-
-
+|[Anaconda/Python](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Python) | Why Python? Why Annaconda? <br>Install Python<br> Get and run example from Github|  
+|[KNIME Tips and Tricks](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIMETipsAndTricks) | Getting started in KNIME <br> |  
+|[Python Review](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/PythonReview) | Review Python Basics|  
+|[CSV Files](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/CSV) | What are CSV files? <br>Open CSV files in KNIME and Python<br>|  
 
 

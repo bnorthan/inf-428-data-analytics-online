@@ -19,7 +19,8 @@ Anaconda is a collection of apps for data analysis.  The Anaconda distribution i
 
 ## Github
 
-* Join github ([see tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* Join github ([see tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners))
+* Install [github desktop](https://desktop.github.com/) 
 
 ### Run IPython notebook 'hello world'
 (3 points)  

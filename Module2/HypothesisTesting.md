@@ -33,7 +33,7 @@ The p-value is the probability of obtaining the observed sample results (or a mo
 * then p is calculated from a table  
 * [T-test table to determine p](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)  
 * Read [Wikipedia Explanation](https://en.wikipedia.org/wiki/Student%27s_t-test#One-sample_t-test)  
-* The single sample t-test tests the null hypothesis that the population mean is equal to a given number.
+* The single sample t-test tests whether a population mean is different from a test value.  The null hypothesis is that there is no difference.  If we reject the null hypothesis the poplulation mean is different from the test value. 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
