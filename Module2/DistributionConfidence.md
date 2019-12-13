@@ -32,7 +32,7 @@ scipy.stats.norm.interval(0.95, test1.mean(), test1.std())
 * In this case we need a statistic that estimates the deviation of the mean
 * This is called standard error.
 ## Standard deviation vs standard error
-* standard deviation measures how far datapoints are from average
+* standard deviation measures how far datapoints are from average  
 <img src="StandardDeviation.jpg" width="200">  
 * standard error measures deviation of the mean  
 <img src="StandardError.jpg" width="120">
