@@ -30,9 +30,29 @@ github: bnorthan (https://github.com/bnorthan)
 
 ## Evaluation
 
-## Expectations
+Assignments - 60 marks    
+Quiz's - 20 marks  
+Discussion - 20 marks    
+Bonus - 10 marks  
+
+Note - With bonus marks there are 110 marks available but final mark will be caclulated out of 100.
+
+| Numerical Grade | Conversion |  Numerical Grade | Conversion| 
+-----------------|-------------|----------------|-------------|
+93-100|A | 73-76|C  
+90-92|A-  | 70-72|C-
+87-89|B+  | 67-69|D+
+83-86|B  | 63-66|D
+80-82|B-  |60-62 | D- 
+77-79|C+ |<60|E  
+
+## My Expectations of you
+
+My main expectation of you is that you make extensive use of the Black Board 'Ask a Question' discussion.  If you encounter technical problems installing and using software report these immediately on the discussion.  
 
 ## What you can expect of me
+
+I am extremely lenient with second chances as long as you clearly communicate any difficulties you are having early and often.  For example if you have trouble installing software needed for an assignment I will almost always give you an extension, as long as you report those problems on the class discussion board a few days before a due date. 
 
 ## Computers
 
