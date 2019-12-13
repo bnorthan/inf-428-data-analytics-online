@@ -8,7 +8,7 @@ Undergrad students, are you using data science in your current projects?
 What are the skills you need to be a data scientist?  
 What are some real life example of machine learning applications? 
 
-## Responses by Wednesday
+## Responses by Sunday 
 
 
 
