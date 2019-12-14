@@ -5,14 +5,7 @@
 ## Marks Checklist (20 marks)
 
 1.  Discussion (6 points)
-2.  Install KNIME 
-3.  Join KNIME hub, get my KNIME example, and run it. 
-3.  Install Annaconda. 
-4.  Join Git hub, get my IPython notebook example and run it.
-4.  Open CSV files in IPython notebook, and in KNIME.
-5. Find a new CSV file online, create a small KNIME workflow that simply opens the file, and upload the workflow to KNIME Hub. (7 marks)
-8.  Create a small IPython notebook that opens the same CSV file and submit on Github. (7 marks)
-
+2.  Assignment 1 (14 points) 
 
 ## Schedule
 
