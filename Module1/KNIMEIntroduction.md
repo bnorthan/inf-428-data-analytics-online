@@ -1,3 +1,3 @@
 # KNIME Introduction
 
-<img src="KNIME.jpg" width="1000">  
+<img src="KNIME.jpg" width="1500">  
