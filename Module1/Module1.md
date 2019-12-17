@@ -15,7 +15,7 @@
 |[Discussion](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Discussion) | Discuss your previous experience with Data Analysis |
 |[KNIME](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIME) | What is KNIME?<br> Install KNIME<br> Get and run example from KNIME HUB |
 |[Anaconda/Python](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Python) | Why Python? Why Annaconda? <br>Install Python<br> Get and run example from Github|  
-|[KNIME Tips and Tricks](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIMETipsAndTricks) | Getting started in KNIME <br> |  
+|[KNIME Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIMEIntroduction) | Getting started in KNIME <br> |  
 |[Python Review](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/PythonReview) | Review Python Basics|  
 |[CSV Files](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/CSV) | What are CSV files? <br>Open CSV files in KNIME and Python<br>|  
 |[Assignment 1](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Assignment1) | Learn to submit work on Github and KNIMEHub |    
