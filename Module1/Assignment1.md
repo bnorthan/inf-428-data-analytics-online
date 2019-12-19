@@ -11,6 +11,8 @@ Assignment 1 is worth 14 marks.  The main purpose of the assignment is to have y
 7. Create a simple workflow that opens the new csv file in KNIME. 
 8. Create a simple IPython notebook that opens the new csv file. 
 
+[This Video](https://www.youtube.com/watch?v=9miEihigfGQ) may be helpful.  
+
 Submit
 
 1.  Create a folder called 'assignment1_yourname' and create subfolders called KNIME and python. 
