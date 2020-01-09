@@ -1,5 +1,16 @@
 # Schedule
 
+| Module | Goals | Reading, Assignments and Discussion |
+| ------ | ----- | --------------- |
+|Introduction | Install KNIME and Annaconda <br> run example workflows/code |  [Module Notes]([https://bnorthan.github.io/inf-428-data-analytics-online/Module1/WhatIsDataAnalysis)<br>[Discussion 1](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Discussion)<br>[So you wanna be a data scientist](https://mashable.com/2014/12/25/data-scientist/)<br>  KNIME Beginner's Luck Chapter 1  <br> Python Review <br>  [Assignment 1]([https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Assignment1)  
+|Statistics| Summarize data using measures of typical value<br> Open and explore .csv files<br> use measures of variation<br> apply significance tests (t-tests, p-values)| [Module Notes](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Module2)<br> [Why Standard Deviation](http://www.separatinghyperplanes.com/2014/04/why-do-statisticians-use-standard.html)<br>[538 Scientists Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)  <br>[Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test) <br> [Discussion 2](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Discussion)<br>[Assignment 2](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Assignment)|
+|Data Wrangling | Use Pandas to open and manipulate tabular data.<br>Use Groupby to aggregate data<br>Merge and join data. | [Module Notes](https://bnorthan.github.io/inf-428-data-analytics-online/Module3/Module3) <br> [Discussion 3](https://bnorthan.github.io/inf-428-data-analytics-online/Module3/Discussion.md) <br> KNIME Beginner's Luck Chapter 5  <br>[10 minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html#min) <br> Python Data Analysis Chapter 4 <br> [Discussion 3](https://bnorthan.github.io/inf-428-data-analytics-online/Module3/Discussion) <br> [Assignment 3](https://bnorthan.github.io/inf-428-data-analytics-online/Module3/Assignment)
+Data Visualization | Create several types of visualizations<br> (line plots,  Bar Chart,  Histogram, Scatter Plot and more <br>  Annotate plots <br>Create Web Visualizations  | KNIME Beginner's luck Chapter 3 <br>  [Pyplot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html) <br> [Discussion 4](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Discussion) <br> [Assignment 4](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Assignment)  
+| Machine Learning | Use features to describe data <br> Classify data into categories <br> Use regression to predict values <br> Use algorithms like K-Nearest Neighbors, Decision Trees and Naive Baye's to classify data. <br>  Understand the difference between Sensitivity and Specificity.| KNIME Beginner's Luck Chapter 4 <br>  [Baye's Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem#Statement_of_theorem) <br> [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) <br> [Discussion 5](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Discussion) <br> [Assignmnent 5](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Assignment) 
+
+
+
+# Detailed Module Descriptions 
 ## Module 1 - Introduction
 
 ### Goals

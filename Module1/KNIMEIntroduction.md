@@ -1,4 +1,6 @@
-# KNIME Introduction
+# KNIME Introduction and Discussion
+
+Please post any questions you have about KNIME on the Blackboard KNIME Discussion group. 
 
 (Optionally) Read [KNIME Analytics Platform Overview](https://www.knime.com/knime-introductory-course/chapter1)  
 

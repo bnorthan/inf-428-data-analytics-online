@@ -1,0 +1,29 @@
+# Introduction to Data Wrangling 
+
+## What is data Wrangling??
+[From Wikipedia](https://en.wikipedia.org/wiki/Data_wrangling)
+
+Data wrangling, sometimes referred to as data munging, is the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. A data wrangler is a person who performs these transformation operations.
+
+In this class we will use two main tools for "Data Wrangling" KNIME and Pandas
+
+## Why Pandas??
+
+Pandas is a python library.  It allows us to manipulate data programatically.  Then we can apply other tool sets (like the plotting library matplotlib or the machine learning libary scikitlearn) down streams.
+
+## Why KNIME??
+
+KNIME allows us to perform most data wrangling operations using visual programming.  Visualization and Machine learning can also be done with other nodes downstream. 
+
+## Why Both?? 
+
+Learning a bit about both will increase your options in the future.  You should learn enough about each that in the future jobs and further studies with either traditional or visual studies, become an option.  
+
+## Data Wrangling operations we will learn
+
+* Read .csv, text and excel files
+* Use Groupby to summarize data
+* Sort data
+* Clean data
+* Eliminate un-needed or redundant data
+ 

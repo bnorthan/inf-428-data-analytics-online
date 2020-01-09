@@ -13,7 +13,7 @@
 |---|---|
 |[What is Data Analysis](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/WhatIsDataAnalysis) | What is Data Analysis?<br>What skills are needed for Data Analysis? |
 |[Discussion](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Discussion) | Discuss your previous experience with Data Analysis |
-|[KNIME](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIME) | What is KNIME?<br> Install KNIME<br> Get and run example from KNIME HUB |
+|[KNIME](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIME) | What is KNIME?<br> Install KNIME<br> Get and run example from KNIME Server |
 |[Anaconda/Python](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Python) | Why Python? Why Annaconda? <br>Install Python<br> Get and run example from Github|  
 |[KNIME Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIMEIntroduction) | Getting started in KNIME <br> |  
 |[Python Review](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/PythonReview) | Review Python Basics|  
