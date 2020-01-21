@@ -6,7 +6,7 @@
 
 ## Key Concepts
 
-Key concepts of Pandas are below.  You should learn these concepts by working through the [Class Pandas Notebook]() and other tutorials (such as [this one](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/))  
+Key concepts of Pandas are below.  You should learn these concepts by working through the [Class Pandas Notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/data_wrangling/Pandas.ipynb) and other tutorials (such as [this one](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/))  
 * use ```import pandas as pd``` to get access 
 * use ```df.read_csv('file name')``` to open the file  
 * shape -> size of data  

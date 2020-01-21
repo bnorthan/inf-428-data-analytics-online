@@ -18,6 +18,6 @@
 |[KNIME Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/KNIMEIntroduction) | Getting started in KNIME <br> |  
 |[Python Review](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/PythonReview) | Review Python Basics|  
 |[CSV Files](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/CSV) | What are CSV files? <br>Open CSV files in KNIME and Python<br>|  
-|[Assignment 1](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Assignment1) | Learn to submit work on Github and KNIMEHub |    
+|[Assignment 1](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Assignment1) | Learn to get reference material from Github and KNIME Server |    
 
 
