@@ -1,0 +1,146 @@
+,place,name,age,gender,city,state,time,pace,age_group,time_seconds
+0,1,Thomas O'Grady,29,M,Latham,NY,55:50,5:35,20_29,3350
+1,2,Josh Merlis,33,M,Albany,NY,56:19,5:38,30_39,3379
+2,3,Mike Roda,39,M,Albany,NY,56:58,5:42,30_39,3418
+3,4,Robert Irwin,42,M,Guilderland,NY,59:14,5:56,40_49,3554
+4,5,Kyle McCormack,20,M,Albany,NY,1:02:20,6:14,20_29,3740
+5,6,Aaron Knobloch,38,M,Guilderland,NY,1:05:04,6:31,30_39,3904
+6,7,Eamon Dempsey,35,M,Delmar,NY,1:05:05,6:31,30_39,3905
+7,8,Emily McCabe,31,F,Albany,NY,1:05:06,6:31,30_39,3906
+8,9,Richard Hamlin,42,M,Rotterdam,NY,1:05:20,6:32,40_49,3920
+9,10,Ben Heller,26,M,Albany,NY,1:05:29,6:33,20_29,3929
+10,11,Brian Northan,39,M,Guilderland,NY,1:05:39,6:34,30_39,3939
+11,12,Jon Rocco,48,M,Colonie,NY,1:06:08,6:37,40_49,3968
+12,13,John Noonan,55,M,Ballston Spa,NY,1:06:28,6:39,50_59,3988
+13,14,Jim Sweeney,33,M,Albany,NY,1:06:37,6:40,30_39,3997
+14,15,Andrew McCarthy,31,M,Albany,NY,1:07:39,6:46,30_39,4059
+15,16,Sawyer Balint,16,M,Melrose,NY,1:07:55,6:48,0_19,4075
+16,17,Emily Acker,17,F,Rexford,NY,1:07:56,6:48,0_19,4076
+17,18,Jon Catlett,37,M,East Chatham,NY,1:07:56,6:48,30_39,4076
+18,19,Thomas Dansereau,27,M,Troy,NY,1:08:02,6:49,20_29,4082
+19,20,Mark Stephenson,50,M,Esperance,NY,1:09:06,6:55,50_59,4146
+20,21,Clausell Washington,33,M,Albany,NY,1:10:00,7:00,30_39,4200
+21,22,Steve Nicoll,41,M,Menands,NY,1:10:12,7:02,40_49,4212
+22,23,Brian DeBraccio,49,M,Scotia,NY,1:10:14,7:02,40_49,4214
+23,24,Sally Drake,41,F,Albany,NY,1:11:00,7:06,40_49,4260
+24,25,Daniel Forgett,37,M,Albany,NY,1:11:09,7:07,30_39,4269
+25,26,Joe McDonald,49,M,Nisakyuna,NY,1:11:20,7:08,40_49,4280
+26,27,Gregory Fox,45,M,Loudonville,NY,1:13:30,7:21,40_49,4410
+27,28,Bill Hoffman,48,M,Clifton Park,NY,1:13:35,7:22,40_49,4415
+28,29,Lisa D'Aniello,28,F,Niskayuna,NY,1:13:57,7:24,20_29,4437
+29,30,Nancy Briskie,57,F,Schenectady,NY,1:15:59,7:36,50_59,4559
+30,31,Matthew Fryer,34,M,Clifton Park,NY,1:16:14,7:38,30_39,4574
+31,32,Mark Mulpeter,53,M,Red Hook,NY,1:16:27,7:39,50_59,4587
+32,33,Brian Nagle,63,M,Woodstock,NY,1:17:09,7:43,60_69,4629
+33,34,Michelle Davis,26,F,Schenectady,NY,1:17:41,7:47,20_29,4661
+34,35,Andrew Sponable,51,M,Latham,NY,1:17:49,7:47,50_59,4669
+35,36,Chris Varley,50,F,Albany,NY,1:18:30,7:51,50_59,4710
+36,37,George Baranauskas,61,M,Scotia,NY,1:18:53,7:54,60_69,4733
+37,38,Kevin Donohue,64,M,Troy,NY,1:18:53,7:54,60_69,4733
+38,39,Carl Brewer,31,M,Albany,NY,1:19:06,7:55,30_39,4746
+39,40,Michael Bromm,55,M,Pittstown,NY,1:22:51,8:18,50_59,4971
+40,41,Steve Reddy,49,M,Styvesant Falls,NY,1:23:26,8:21,40_49,5006
+41,42,Greg Coons,48,M,Albany,NY,1:24:03,8:25,40_49,5043
+42,43,Ruth Sadinsky,47,F,Albany,NY,1:24:05,8:25,40_49,5045
+43,44,Walter Gannon,44,M,Gloversville,NY,1:24:15,8:26,40_49,5055
+44,45,Nathan Zerrahn,29,M,Schenectady,NY,1:24:24,8:27,20_29,5064
+45,46,David Hayes,71,M,Niskayuna,NY,1:24:32,8:28,70_79,5072
+46,47,Steve Engel,51,M,Chatham,NY,1:24:44,8:29,50_59,5084
+47,48,Mark Nunez,58,M,Ballston Lake,NY,1:25:05,8:31,50_59,5105
+48,49,Vincent Wenger,51,M,Schenectady,NY,1:25:13,8:32,50_59,5113
+49,50,Sydney Smith,14,F,Niskayuna,NY,1:25:14,8:32,0_19,5114
+50,51,Lara Stelmaszyk,45,F,Albany,NY,1:25:30,8:33,40_49,5130
+51,52,David Padula,49,M,Niskayuna,NY,1:25:40,8:34,40_49,5140
+52,53,Brian Broden,51,M,Altamont,NY,1:25:40,8:34,50_59,5140
+53,54,Charles Bergeron,36,M,Albany,NY,1:25:48,8:35,30_39,5148
+54,55,Kim Law,57,F,E. Greenbush,NY,1:25:50,8:35,50_59,5150
+55,56,Andrea Hollinger,27,F,Averill Park,NY,1:25:58,8:36,20_29,5158
+56,57,Mike O'Toole,39,M,Mechanicville,NY,1:25:58,8:36,30_39,5158
+57,58,Dan Reynolds,31,M,E. Greenbush,NY,1:26:13,8:38,30_39,5173
+58,59,Will Smith,61,M,Voorheesville,NY,1:26:27,8:39,60_69,5187
+59,60,David Martin,47,M,Loudonville,NY,1:26:31,8:40,40_49,5191
+60,61,David Jacob,49,M,Slingerlands,NY,1:26:32,8:40,40_49,5192
+61,62,Mike Miller,36,M,Albany,NY,1:26:33,8:40,30_39,5193
+62,63,Jay Quinn,50,M,Voorheesville,NY,1:26:40,8:40,50_59,5200
+63,64,No Card,35,M,Unknownsville,NY,1:26:50,8:41,30_39,5210
+64,65,James Chung,48,M,Glenmont,NY,1:26:59,8:42,40_49,5219
+65,66,Joe Yavonditte,65,M,Schenectady,NY,1:27:01,8:43,60_69,5221
+66,67,Jacob Becker,32,M,Schenectady,NY,1:27:13,8:44,30_39,5233
+67,68,Jason Lecuyer,32,M,Schenectady,NY,1:27:14,8:44,30_39,5234
+68,69,Maureen Fitzgerald,57,F,Clifton Park,NY,1:27:33,8:46,50_59,5253
+69,70,Lauren Herbs,52,F,Rexford,NY,1:27:54,8:48,50_59,5274
+70,71,Mary Fenton,49,F,Ballston Spa,NY,1:28:10,8:49,40_49,5290
+71,72,Tony Lupo,52,M,Saratoga Springs,NY,1:28:10,8:49,50_59,5290
+72,73,Rebecca McDonald,25,F,Albany,NY,1:28:30,8:51,20_29,5310
+73,74,Mark Macutek,51,M,Loudonville,NY,1:28:49,8:53,50_59,5329
+74,75,Pete Cowie,66,M,Schenectady,NY,1:30:09,9:01,60_69,5409
+75,76,Kelly McCloskey,29,F,Albany,NY,1:30:09,9:01,20_29,5409
+76,77,Kim Donegan,34,F,Malta,NY,1:30:39,9:04,30_39,5439
+77,78,No Card,35,M,Unknownsville,NY,1:31:13,9:08,30_39,5473
+78,79,Karen Gerstenberger,57,F,Colonie,NY,1:32:18,9:14,50_59,5538
+79,80,Susan Wong,67,F,Glenmont,NY,1:32:39,9:16,60_69,5559
+80,81,Moria Hilt,22,F,Colonie,NY,1:33:18,9:20,20_29,5598
+81,82,Jenny Lee,55,F,Selkirk,NY,1:33:18,9:20,50_59,5598
+82,83,Martha DeGrazia,63,F,Slingerlands,NY,1:33:43,9:23,60_69,5623
+83,84,Matt Malette,34,M,Albany,NY,1:33:46,9:23,30_39,5626
+84,85,Jim McMorris,46,M,Guilderland,NY,1:33:47,9:23,40_49,5627
+85,86,Larry Solvegor,41,M,Feura Bush,NY,1:33:54,9:24,40_49,5634
+86,87,Raychem Aigelin,49,F,Rensselaer,NY,1:33:59,9:24,40_49,5639
+87,88,Lori Francesconi,53,F,Waterford,NY,1:34:47,9:29,50_59,5687
+88,89,Amanda Pilla,26,F,Latham,NY,1:34:50,9:29,20_29,5690
+89,90,Mary Mosher,55,F,Castleton,NY,1:34:56,9:30,50_59,5696
+90,91,Alyssa O'Connor,22,F,Castleton,NY,1:35:00,9:30,20_29,5700
+91,92,Jillian Austin,31,F,Troy,NY,1:35:00,9:30,30_39,5700
+92,93,Vince Juliano,57,M,Delanson,NY,1:35:45,9:35,50_59,5745
+93,94,Richard Kelly,58,M,Schenectady,NY,1:36:08,9:37,50_59,5768
+94,95,Perry Gaver,56,M,Clifton Park,NY,1:36:20,9:38,50_59,5780
+95,96,Jeff Heidbroom,42,M,Latham,NY,1:36:20,9:38,40_49,5780
+96,97,Darrell Everts,46,M,Schenectady,NY,1:36:28,9:39,40_49,5788
+97,98,Jen Masa,29,F,Selkirk,NY,1:38:00,9:48,20_29,5880
+98,99,Kristy Race,39,F,Selkirk,NY,1:38:05,9:49,30_39,5885
+99,100,Jesse Dinkin,58,M,Guilderland,NY,1:38:12,9:50,50_59,5892
+100,101,Ross Snyder,60,M,Schenectady,NY,1:38:35,9:52,60_69,5915
+101,102,Pete Fish,56,M,Castleton,NY,1:38:35,9:52,50_59,5915
+102,103,Joan Celentano,61,F,Schenectady,NY,1:38:59,9:54,60_69,5939
+103,104,Kathleen Dougherty,50,F,Troy,NY,1:39:00,9:54,50_59,5940
+104,105,Miriam Hardiin,47,F,Albany,NY,1:39:45,9:59,40_49,5985
+105,106,Edwin Litts,65,M,Schenectady,NY,1:39:59,10:00,60_69,5999
+106,107,Ryan Preston,38,M,E. Greenbush,NY,1:40:22,10:03,30_39,6022
+107,108,Jill Mehan,60,F,Troy,NY,1:40:48,10:05,60_69,6048
+108,109,David Hudda,61,M,Amsterdam,NY,1:41:12,10:08,60_69,6072
+109,110,Lisa LaPlante,42,F,Rensselaer,NY,1:41:51,10:12,40_49,6111
+110,111,Rory Swaine,40,M,Albany,NY,1:42:15,10:14,40_49,6135
+111,112,Paul Murray,70,M,Albany,NY,1:42:43,10:17,70_79,6163
+112,113,Darlene Cardillo,61,F,Delmar,NY,1:42:50,10:17,60_69,6170
+113,114,Richard Baker,40,M,Rensselaer,NY,1:44:05,10:25,40_49,6245
+114,115,Kim Broderick,27,F,Guilderland,NY,1:44:05,10:25,20_29,6245
+115,116,Rebecca ???,24,F,Selkirk,NY,1:46:00,10:36,20_29,6360
+116,117,Joe Stinton,24,M,Albany,NY,1:47:03,10:43,20_29,6423
+117,118,Katherine Ambrosio,64,F,Delmar,NY,1:47:24,10:45,60_69,6444
+118,119,A. Ambrosio,39,F,Clifton Park,NY,1:48:15,10:50,30_39,6495
+119,120,Aaron Ambrosio,44,M,Clifton Park,NY,1:48:15,10:50,40_49,6495
+120,121,Doug Browsky,52,M,Tribes Hill,NY,1:48:16,10:50,50_59,6496
+121,122,Dee Fisher-Golden,44,F,Slingerlands,NY,1:50:25,11:03,40_49,6625
+122,123,Christopher Fischer,38,M,Latham,NY,1:51:13,11:08,30_39,6673
+123,124,Theresda Hudda,49,F,Amsterdam,NY,1:51:13,11:08,40_49,6673
+124,125,Leo DiPierro,64,M,Cherry Plain,NY,1:52:45,11:17,60_69,6765
+125,126,Mary Insogna,42,F,Scotia,NY,1:53:55,11:24,40_49,6835
+126,127,Sherry Ringwood,50,F,Mechanicville,NY,1:56:42,11:41,50_59,7002
+127,128,Ron Bagnoli,68,M,Mechanicville,NY,1:56:42,11:41,60_69,7002
+128,129,Tar Curran,37,F,Unknownsville,NY,1:56:43,11:41,30_39,7003
+129,130,Shannon Bishop,43,F,Rensselaer,NY,1:57:47,11:47,40_49,7067
+130,131,Brenda Fish,48,F,Castleton,NY,1:57:47,11:47,40_49,7067
+131,132,Lizzie Redkey,45,F,Latham,NY,1:57:54,11:48,40_49,7074
+132,133,Dorothea Schoep,43,F,Hudson,NY,1:58:00,11:48,40_49,7080
+133,134,Kate Mielro,30,F,Altamont,NY,1:58:00,11:48,30_39,7080
+134,135,Carrie Genito,42,F,Cohoes,NY,1:59:21,11:57,40_49,7161
+135,136,Mary Ann Macri,63,F,Albany,NY,2:00:02,12:01,60_69,7202
+136,137,Susan Huston,53,F,Troy,NY,2:00:23,12:03,50_59,7223
+137,138,Nicole Niles,37,F,Albany,NY,2:01:19,12:08,30_39,7279
+138,139,Rich Whiting,39,M,Scotia,NY,2:01:20,12:08,30_39,7280
+139,140,Linda Mensching Qui,47,F,Voorheesville,NY,2:02:00,12:12,40_49,7320
+140,141,Mark Goldhaber,50,M,Guilderland,NY,2:02:05,12:13,50_59,7325
+141,142,Erin Schambach,38,F,Clifton Park,NY,2:02:57,12:18,30_39,7377
+142,143,Laurie McCarroll,53,F,Castleton,NY,2:02:58,12:18,50_59,7378
+143,144,Anny Stockman,82,F,Rensselaer,NY,2:27:02,14:43,80+,8822
+144,145,Ray Lee,72,M,Halfmoon,NY,2:27:17,14:44,70_79,8837

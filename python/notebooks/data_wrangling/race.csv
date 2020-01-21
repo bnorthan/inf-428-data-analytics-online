@@ -1,0 +1,146 @@
+place,name,age,gender,city,state,time,pace
+1,Thomas O'Grady,29,M,Latham,NY,55:50,5:35
+2,Josh Merlis,33,M,Albany,NY,56:19,5:38
+3,Mike Roda,39,M,Albany,NY,56:58,5:42
+4,Robert Irwin,42,M,Guilderland,NY,59:14,5:56
+5,Kyle McCormack,20,M,Albany,NY,1:02:20,6:14
+6,Aaron Knobloch,38,M,Guilderland,NY,1:05:04,6:31
+7,Eamon Dempsey,35,M,Delmar,NY,1:05:05,6:31
+8,Emily McCabe,31,F,Albany,NY,1:05:06,6:31
+9,Richard Hamlin,42,M,Rotterdam,NY,1:05:20,6:32
+10,Ben Heller,26,M,Albany,NY,1:05:29,6:33
+11,Brian Northan,39,M,Guilderland,NY,1:05:39,6:34
+12,Jon Rocco,48,M,Colonie,NY,1:06:08,6:37
+13,John Noonan,55,M,Ballston Spa,NY,1:06:28,6:39
+14,Jim Sweeney,33,M,Albany,NY,1:06:37,6:40
+15,Andrew McCarthy,31,M,Albany,NY,1:07:39,6:46
+16,Sawyer Balint,16,M,Melrose,NY,1:07:55,6:48
+17,Emily Acker,17,F,Rexford,NY,1:07:56,6:48
+18,Jon Catlett,37,M,East Chatham,NY,1:07:56,6:48
+19,Thomas Dansereau,27,M,Troy,NY,1:08:02,6:49
+20,Mark Stephenson,50,M,Esperance,NY,1:09:06,6:55
+21,Clausell Washington,33,M,Albany,NY,1:10:00,7:00
+22,Steve Nicoll,41,M,Menands,NY,1:10:12,7:02
+23,Brian DeBraccio,49,M,Scotia,NY,1:10:14,7:02
+24,Sally Drake,41,F,Albany,NY,1:11:00,7:06
+25,Daniel Forgett,37,M,Albany,NY,1:11:09,7:07
+26,Joe McDonald,49,M,Nisakyuna,NY,1:11:20,7:08
+27,Gregory Fox,45,M,Loudonville,NY,1:13:30,7:21
+28,Bill Hoffman,48,M,Clifton Park,NY,1:13:35,7:22
+29,Lisa D'Aniello,28,F,Niskayuna,NY,1:13:57,7:24
+30,Nancy Briskie,57,F,Schenectady,NY,1:15:59,7:36
+31,Matthew Fryer,34,M,Clifton Park,NY,1:16:14,7:38
+32,Mark Mulpeter,53,M,Red Hook,NY,1:16:27,7:39
+33,Brian Nagle,63,M,Woodstock,NY,1:17:09,7:43
+34,Michelle Davis,26,F,Schenectady,NY,1:17:41,7:47
+35,Andrew Sponable,51,M,Latham,NY,1:17:49,7:47
+36,Chris Varley,50,F,Albany,NY,1:18:30,7:51
+37,George Baranauskas,61,M,Scotia,NY,1:18:53,7:54
+38,Kevin Donohue,64,M,Troy,NY,1:18:53,7:54
+39,Carl Brewer,31,M,Albany,NY,1:19:06,7:55
+40,Michael Bromm,55,M,Pittstown,NY,1:22:51,8:18
+41,Steve Reddy,49,M,Styvesant Falls,NY,1:23:26,8:21
+42,Greg Coons,48,M,Albany,NY,1:24:03,8:25
+43,Ruth Sadinsky,47,F,Albany,NY,1:24:05,8:25
+44,Walter Gannon,44,M,Gloversville,NY,1:24:15,8:26
+45,Nathan Zerrahn,29,M,Schenectady,NY,1:24:24,8:27
+46,David Hayes,71,M,Niskayuna,NY,1:24:32,8:28
+47,Steve Engel,51,M,Chatham,NY,1:24:44,8:29
+48,Mark Nunez,58,M,Ballston Lake,NY,1:25:05,8:31
+49,Vincent Wenger,51,M,Schenectady,NY,1:25:13,8:32
+50,Sydney Smith,14,F,Niskayuna,NY,1:25:14,8:32
+51,Lara Stelmaszyk,45,F,Albany,NY,1:25:30,8:33
+52,David Padula,49,M,Niskayuna,NY,1:25:40,8:34
+53,Brian Broden,51,M,Altamont,NY,1:25:40,8:34
+54,Charles Bergeron,36,M,Albany,NY,1:25:48,8:35
+55,Kim Law,57,F,E. Greenbush,NY,1:25:50,8:35
+56,Andrea Hollinger,27,F,Averill Park,NY,1:25:58,8:36
+57,Mike O'Toole,39,M,Mechanicville,NY,1:25:58,8:36
+58,Dan Reynolds,31,M,E. Greenbush,NY,1:26:13,8:38
+59,Will Smith,61,M,Voorheesville,NY,1:26:27,8:39
+60,David Martin,47,M,Loudonville,NY,1:26:31,8:40
+61,David Jacob,49,M,Slingerlands,NY,1:26:32,8:40
+62,Mike Miller,36,M,Albany,NY,1:26:33,8:40
+63,Jay Quinn,50,M,Voorheesville,NY,1:26:40,8:40
+64,No Card,35,M,Unknownsville,NY,1:26:50,8:41
+65,James Chung,48,M,Glenmont,NY,1:26:59,8:42
+66,Joe Yavonditte,65,M,Schenectady,NY,1:27:01,8:43
+67,Jacob Becker,32,M,Schenectady,NY,1:27:13,8:44
+68,Jason Lecuyer,32,M,Schenectady,NY,1:27:14,8:44
+69,Maureen Fitzgerald,57,F,Clifton Park,NY,1:27:33,8:46
+70,Lauren Herbs,52,F,Rexford,NY,1:27:54,8:48
+71,Mary Fenton,49,F,Ballston Spa,NY,1:28:10,8:49
+72,Tony Lupo,52,M,Saratoga Springs,NY,1:28:10,8:49
+73,Rebecca McDonald,25,F,Albany,NY,1:28:30,8:51
+74,Mark Macutek,51,M,Loudonville,NY,1:28:49,8:53
+75,Pete Cowie,66,M,Schenectady,NY,1:30:09,9:01
+76,Kelly McCloskey,29,F,Albany,NY,1:30:09,9:01
+77,Kim Donegan,34,F,Malta,NY,1:30:39,9:04
+78,No Card,35,M,Unknownsville,NY,1:31:13,9:08
+79,Karen Gerstenberger,57,F,Colonie,NY,1:32:18,9:14
+80,Susan Wong,67,F,Glenmont,NY,1:32:39,9:16
+81,Moria Hilt,22,F,Colonie,NY,1:33:18,9:20
+82,Jenny Lee,55,F,Selkirk,NY,1:33:18,9:20
+83,Martha DeGrazia,63,F,Slingerlands,NY,1:33:43,9:23
+84,Matt Malette,34,M,Albany,NY,1:33:46,9:23
+85,Jim McMorris,46,M,Guilderland,NY,1:33:47,9:23
+86,Larry Solvegor,41,M,Feura Bush,NY,1:33:54,9:24
+87,Raychem Aigelin,49,F,Rensselaer,NY,1:33:59,9:24
+88,Lori Francesconi,53,F,Waterford,NY,1:34:47,9:29
+89,Amanda Pilla,26,F,Latham,NY,1:34:50,9:29
+90,Mary Mosher,55,F,Castleton,NY,1:34:56,9:30
+91,Alyssa O'Connor,22,F,Castleton,NY,1:35:00,9:30
+92,Jillian Austin,31,F,Troy,NY,1:35:00,9:30
+93,Vince Juliano,57,M,Delanson,NY,1:35:45,9:35
+94,Richard Kelly,58,M,Schenectady,NY,1:36:08,9:37
+95,Perry Gaver,56,M,Clifton Park,NY,1:36:20,9:38
+96,Jeff Heidbroom,42,M,Latham,NY,1:36:20,9:38
+97,Darrell Everts,46,M,Schenectady,NY,1:36:28,9:39
+98,Jen Masa,29,F,Selkirk,NY,1:38:00,9:48
+99,Kristy Race,39,F,Selkirk,NY,1:38:05,9:49
+100,Jesse Dinkin,58,M,Guilderland,NY,1:38:12,9:50
+101,Ross Snyder,60,M,Schenectady,NY,1:38:35,9:52
+102,Pete Fish,56,M,Castleton,NY,1:38:35,9:52
+103,Joan Celentano,61,F,Schenectady,NY,1:38:59,9:54
+104,Kathleen Dougherty,50,F,Troy,NY,1:39:00,9:54
+105,Miriam Hardiin,47,F,Albany,NY,1:39:45,9:59
+106,Edwin Litts,65,M,Schenectady,NY,1:39:59,10:00
+107,Ryan Preston,38,M,E. Greenbush,NY,1:40:22,10:03
+108,Jill Mehan,60,F,Troy,NY,1:40:48,10:05
+109,David Hudda,61,M,Amsterdam,NY,1:41:12,10:08
+110,Lisa LaPlante,42,F,Rensselaer,NY,1:41:51,10:12
+111,Rory Swaine,40,M,Albany,NY,1:42:15,10:14
+112,Paul Murray,70,M,Albany,NY,1:42:43,10:17
+113,Darlene Cardillo,61,F,Delmar,NY,1:42:50,10:17
+114,Richard Baker,40,M,Rensselaer,NY,1:44:05,10:25
+115,Kim Broderick,27,F,Guilderland,NY,1:44:05,10:25
+116,Rebecca ???,24,F,Selkirk,NY,1:46:00,10:36
+117,Joe Stinton,24,M,Albany,NY,1:47:03,10:43
+118,Katherine Ambrosio,64,F,Delmar,NY,1:47:24,10:45
+119,A. Ambrosio,39,F,Clifton Park,NY,1:48:15,10:50
+120,Aaron Ambrosio,44,M,Clifton Park,NY,1:48:15,10:50
+121,Doug Browsky,52,M,Tribes Hill,NY,1:48:16,10:50
+122,Dee Fisher-Golden,44,F,Slingerlands,NY,1:50:25,11:03
+123,Christopher Fischer,38,M,Latham,NY,1:51:13,11:08
+124,Theresda Hudda,49,F,Amsterdam,NY,1:51:13,11:08
+125,Leo DiPierro,64,M,Cherry Plain,NY,1:52:45,11:17
+126,Mary Insogna,42,F,Scotia,NY,1:53:55,11:24
+127,Sherry Ringwood,50,F,Mechanicville,NY,1:56:42,11:41
+128,Ron Bagnoli,68,M,Mechanicville,NY,1:56:42,11:41
+129,Tar Curran,37,F,Unknownsville,NY,1:56:43,11:41
+130,Shannon Bishop,43,F,Rensselaer,NY,1:57:47,11:47
+131,Brenda Fish,48,F,Castleton,NY,1:57:47,11:47
+132,Lizzie Redkey,45,F,Latham,NY,1:57:54,11:48
+133,Dorothea Schoep,43,F,Hudson,NY,1:58:00,11:48
+134,Kate Mielro,30,F,Altamont,NY,1:58:00,11:48
+135,Carrie Genito,42,F,Cohoes,NY,1:59:21,11:57
+136,Mary Ann Macri,63,F,Albany,NY,2:00:02,12:01
+137,Susan Huston,53,F,Troy,NY,2:00:23,12:03
+138,Nicole Niles,37,F,Albany,NY,2:01:19,12:08
+139,Rich Whiting,39,M,Scotia,NY,2:01:20,12:08
+140,Linda Mensching Qui,47,F,Voorheesville,NY,2:02:00,12:12
+141,Mark Goldhaber,50,M,Guilderland,NY,2:02:05,12:13
+142,Erin Schambach,38,F,Clifton Park,NY,2:02:57,12:18
+143,Laurie McCarroll,53,F,Castleton,NY,2:02:58,12:18
+144,Anny Stockman,82,F,Rensselaer,NY,2:27:02,14:43
+145,Ray Lee,72,M,Halfmoon,NY,2:27:17,14:44
