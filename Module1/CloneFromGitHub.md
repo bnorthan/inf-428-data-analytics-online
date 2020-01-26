@@ -4,20 +4,20 @@ First (if you don't already) create an account on [GitHub](https://github.com/) 
 
 Once you have GitHub desktop running
 
-1. Go to Options
+### Go to Options
 
 <img src="githubdesktop1.jpg" width="700">  
 
-2.  Sign into your Github account
+###  Sign into your Github account
 
 <img src="githubdesktop2.jpg" width="700">  
 <img src="githubdesktop3.jpg" width="700">  
 
-3.  Go to 'Clone a repository'
+###  Go to 'Clone a repository'
 
 <img src="githubdesktop4a.jpg" width="700">
 
-4.  Choose the 'URL' tab and enter 
+###  Choose the 'URL' tab and enter 
 
 Repository URL: bnorthan/inf-428-data-analytics-online
 
