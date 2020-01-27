@@ -1,6 +1,6 @@
 # Module 1
 
-## January 22-29
+## January 22-February 9th
 
 ## Marks Checklist (20 marks)
 

@@ -24,9 +24,7 @@ Note: Make sure you get the version with Python 3.7 (or higher) (NOT 2.7) or the
 * Join github ([see tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners))
 * Install [github desktop](https://desktop.github.com/) 
 * Watch [Github Desktop for Windows](https://www.youtube.com/watch?v=77W2JSL7-r8) tutorial
-* Clone the class github repository from here  
-https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/introduction/Python_Tutorial.ipynb  
-* Make sure you clone it underneath your user directory.  Otherwise it will not be accessible to Ipython notebook. 
+* Clone the class github repository following instruction from [here](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/CloneFromGitHub)
 
 ### Run IPython notebook 'hello world'
 
