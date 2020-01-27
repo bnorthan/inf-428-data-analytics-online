@@ -1,6 +1,6 @@
 # Module 2 Statistics  
 
-## February 9-15
+## February 9-22
 
 ## Schedule
 
