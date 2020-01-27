@@ -26,7 +26,7 @@ A word file containing the following.
 
 As an example here is what I would submit if doing the assignment.
 
-1.  My github name is bnorthan below is a screenshot I took of github desktop
+1.  My github name is bnorthan below is a screenshot I took of github desktop  
 <img src="githubdesktop_inf429.jpg" width="400">  
 2.  I found my data here [on baseball reference](https://www.baseball-reference.com/leagues/AL/2016.shtml).  To get the data you need to scroll down to the 'Team Standard Batting' table, click on 'share and more' and then 'get table as .csv'. 
 3.  Below is a screen shot of my data open in KNIME (note you can barely see KNIME server in the top left panel (KNIME Explorer))
