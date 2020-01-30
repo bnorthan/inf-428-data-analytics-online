@@ -22,7 +22,7 @@ Please [watch this video](https://www.youtube.com/watch?v=dPoWbC-mODM).
 
 Follow the instructions in the video, when you get to the 'Edit Mount Point' dialog, make sure the Server Address and 'MountID' are as in the below screen shot.  The username should be your unique username
 
-Server address: http://192.168.1.10:8080  
+Server address: http://96.236.26.55:8080
 Username: -your user name- (see announcement on blackboard)  
 Password: inf428  
 
