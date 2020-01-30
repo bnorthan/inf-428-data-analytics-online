@@ -22,14 +22,13 @@ Please [watch this video](https://www.youtube.com/watch?v=dPoWbC-mODM).
 
 Follow the instructions in the video, when you get to the 'Edit Mount Point' dialog, make sure the Server Address and 'MountID' are as in the below screen shot.  The username should be your unique username
 
-<img src="knimeserver3.jpg" width="400">  
-
-The information you will need is  
-
 Server address: http://192.168.1.10:8080  
 Username: -your user name- (see announcement on blackboard)  
 Password: inf428  
 
+<img src="knimeserver3.jpg" width="400">  
+
+The information you will need is  
 I will create your account and send you an individual username and password. 
 
 After you connect to the KNIME Server you should see it appear in the "KNIME Explorer" as below  
