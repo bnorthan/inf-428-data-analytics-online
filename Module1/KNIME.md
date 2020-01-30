@@ -18,13 +18,21 @@ Read KNIME Quick Start (a more detailed guide) [here](https://docs.knime.com/201
 
 After downloading and installing KNIME the first thing you need to access the class KNIME Server.   
 
-Please [watch this video](https://www.youtube.com/watch?v=dPoWbC-mODM).  The information you will need is
+Please [watch this video](https://www.youtube.com/watch?v=dPoWbC-mODM).  
 
-Server address:  
-Username: 
-Password:
+Follow the instructions in the video, when you get to the 'Edit Mount Point' dialog, make sure the Server Address and 'MountID' are as in the below screen shot.  The username should be your unique username
 
-I will create your account and send you an individual username and password.  After you connect to the KNIME Server you should see it appear in the "KNIME Explorer" as below  
+<img src="knimeserver3.jpg" width="400">  
+
+The information you will need is  
+
+Server address: http://192.168.1.10:8080  
+Username: -your user name- (see announcement on blackboard)  
+Password: inf428  
+
+I will create your account and send you an individual username and password. 
+
+After you connect to the KNIME Server you should see it appear in the "KNIME Explorer" as below  
 
 <img src="KNIMEServer.jpg" width="700">  
 
