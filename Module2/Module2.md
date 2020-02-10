@@ -4,6 +4,10 @@
 
 ## Schedule
 
+Marks checklist
+
+1.  Discussion (Reproducibility Crisis)
+2.  Assignment 2 (Repeat a previous experiment)
 
 | sub-module|Description|
 |---|---|
