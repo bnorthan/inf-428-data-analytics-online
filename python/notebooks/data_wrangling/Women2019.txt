@@ -1,3 +1,4 @@
+TIME      ATHLETE                NATION RANK VENUE          DATE
 2:14:04   Brigid KOSGEI          KEN     1   Chicago        13 OCT
 2:17:08   Ruth CHEPNGETICH       KEN     1   Dubai          25 JAN
 2:17:20   KOSGEI                 KEN     1   London         28 APR

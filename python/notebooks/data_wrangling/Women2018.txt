@@ -1,0 +1,170 @@
+2:18:11   Gladys CHERONO         KEN     1   Berlin         16 SEP
+2:18:31   Vivian CHERUIYOT       KEN     1   London         22 APR
+2:18:34   Ruti AGA               ETH     2   Berlin         16 SEP
+2:18:35   Brigid KOSGEI          KEN     1   Chicago        07 OCT
+2:18:35   Ruth CHEPNGETICH       KEN     1   Istanbul       11 NOV
+2:18:55   Tirunesh DIBABA        ETH     3   Berlin         16 SEP
+2:19:17   Roza DEREJE            ETH     1   Dubai          26 JAN
+2:19:30   Feyse TADESE           ETH     2   Dubai          26 JAN
+2:19:36   Yebrgual MELESE        ETH     3   Dubai          26 JAN
+2:19:51   Berhane DIBABA         ETH     1   Tokyo          25 FEB
+2:19:56   Worknesh DEGEFA        ETH     4   Dubai          26 JAN
+2:20:13   Haftamnesh TESFAY      ETH     5   Dubai          26 JAN
+2:20:13   Brigid KOSGEI          KEN     2   London         22 APR
+2:20:36   Meskerem ASSEFA        ETH     1   Frankfurt      28 OCT
+2:20:37   Yebrgual MELESE        ETH     1   Shanghai       18 NOV
+2:20:45   Gelete BURKA           ETH     6   Dubai          26 JAN
+2:20:47   Haftamnesh TESFAY      ETH     2   Frankfurt      28 OCT
+2:21:14   Ashete DIDO            ETH     1   Valencia       02 DEC
+2:21:18   Edna KIPLAGAT          KEN     4   Berlin         16 SEP
+2:21:18   DEREJE                 ETH     2   Chicago        07 OCT
+2:21:19   AGA                    ETH     2   Tokyo          25 FEB
+2:21:32   Bedatu HIRPA           ETH     3   Frankfurt      28 OCT
+2:21:38   Valary AYABEI          KEN     1   Beijing        16 SEP
+2:21:40   Tadelech BEKELE        ETH     3   London         22 APR
+2:21:42   Amy CRAGG              USA     3   Tokyo          25 FEB
+2:21:45   Dera DIDA              ETH     7   Dubai          26 JAN
+2:21:45   Meskerem ASSEFA        ETH     1   Nagoya         11 MAR
+2:21:51   Azmera ABREHA          ETH     2   Shanghai       18 NOV
+2:21:53   Belaynesh OLJIRA       ETH     4   Frankfurt      28 OCT
+2:22:07   Gelete BURKA           ETH     1   Ottawa         27 MAY
+2:22:10   Lydia CHEROMEI         KEN     2   Valencia       02 DEC
+2:22:15   Shure DEMISE           ETH     3   Chicago        07 OCT
+2:22:17   DEMISE                 ETH     4   Tokyo          25 FEB
+2:22:23   Mizuki MATSUDA         JPN     5   Berlin         16 SEP
+2:22:29   Mimi BELETE            ETH     1   Toronto        21 OCT
+2:22:35   Marta MEGRA            ETH     2   Toronto        21 OCT
+2:22:39   Dera DIDA              ETH     5   Frankfurt      28 OCT
+2:22:44   Mizuki MATSUDA         JPN     1   Osaka          28 JAN
+2:22:45   Sintayehu LEWETEGN     ETH     6   Frankfurt      28 OCT
+2:22:46   Nancy Jepkosgei KIPROP KEN     7   Frankfurt      28 OCT
+2:22:48   Valary JEMELI          KEN     2   Nagoya         11 MAR
+2:22:48   Helen TOLA             ETH     6   Berlin         16 SEP 
+2:22:48   Mary KEITANY           KEN     1   New York       04 NOV
+2:22:55   Betsy SAINA            KEN     1   Paris          08 APR
+2:22:58   Visiline JEPKESHO      KEN     1   Ljubljana      28 OCT
+2:22:59   Ruth CHEPNGETICH       KEN     2   Paris          08 APR
+2:23:06   Gulume CHALA           ETH     3   Paris          08 APR
+2:23:07   Hanami SEKINE          JPN     3   Nagoya         11 MAR
+2:23:14   Tadelech BEKELE        ETH     1   Amsterdam      21 OCT
+2:23:15   Sally KIPYEGO          KEN     2   Ljubljana      28 OCT
+2:23:27   Ashete BEKELE          ETH     4   Paris          08 APR
+2:23:28   Shasho INSERMU         ETH     2   Amsterdam      21 OCT
+2:23:29   Ruth CHEBITOK          KEN     3   Toronto        21 OCT
+2:23:31   Azmera GEBRU           ETH     3   Amsterdam      21 OCT
+2:23:34   Dibabe KUMA            ETH     3   Ljubljana      28 OCT
+2:23:37   Tinbit WELDEGEBRIL     ETH     3   Valencia       02 DEC
+2:23:39   Desi JISA              BRN     4   Amsterdam      21 OCT
+2:23:40   Betty LEMPUS           KEN     3   Shanghai       18 NOV
+2:23:43   Stella BARSOSIO        KEN     5   Paris          08 APR
+2:23:46   Rahma TUSA             ETH     1   Roma           08 APR
+2:23:46   Linet MASAI            KEN     5   Amsterdam      21 OCT
+2:23:47   Visiline JEPKESHO      KEN     1   Rotterdam      08 APR
+2:23:48   Honami MAEDA           JPN     2   Osaka          28 JAN 
+2:23:54   Afera GODFAY           ETH     4   Shanghai       18 NOV
+2:24:05   JISA                   BRN     8   Dubai          26 JAN
+2:24:08   Marta MEGRA            ETH     6   Paris          08 APR
+2:24:08   Hirut TIBEBU           ETH     1   Seoul          18 MAR
+2:24:10   Gladys CHERONO         KEN     4   London         22 APR
+2:24:11   Sembere TEFERI         ETH     9   Dubai          26 JAN
+2:24:17   Lonah Chemtai SALPETER ISR     1   Firenze        25 NOV
+2:24:18   Nancy KIPROP           KEN     1   Wien           22 APR
+2:24:19   Bornes KITUR           KEN     1   Prague         06 MAY
+2:24:27   Mary KEITANY           KEN     5   London         22 APR
+2:24:30   Margaret AGAI          KEN     2   Seoul          18 MAR
+2:24:31   Monica JEPKOECH        KEN     3   Seoul          18 MAR     
+2:24:35   Betsy SAINA            KEN     8   Frankfurt      28 OCT
+2:24:35   Aberu MEKURIA          ETH     4   Valencia       02 DEC
+2:24:38   Jackline CHEPNGENO     KEN     6   Amsterdam      21 OCT 
+2:24:47   Letebrhan HAYLAY       ETH     1   Dongying       05 MAY
+2:24:49   Ruth CHEBITOK          KEN     1   Gold Coast     01 JUL
+2:24:51   Bruktayit ESHETU       ETH     1   Houston        14 JAN
+2:24:51   Shitaye ESHETE         BRN     1   Hamburg        29 APR
+2:24:57   Belaynesh OLJIRA       ETH     2   Houston        14 JAN 
+2:25:00   Stellah BARSOSIO       KEN     9   Frankfurt      28 OCT
+2:25:01   Mulu SEBOKA            ETH     4   Seoul          18 MAR
+2:25:02   Abebech AFEWORK        ETH     7   Paris          08 APR
+2:25:02   Sharon CHEROP          KEN     4   Ljubljana      28 OCT 
+2:25:04   Margaret AGAI          KEN     2   Istanbul       11 NOV
+2:25:10   Hirut Tibebu DAMTE     ETH     1   Hangzhou       04 NOV
+2:25:13   Belaynesh OLJIRA       ETH     2   Prague         06 MAY
+2:25:17   Abebech AFEWORK        ETH    10   Frankfurt      28 OCT
+2:25:22   Ana Dulce FELIX        POR     5   Valencia       02 DEC
+2:25:23   Honami MAEDA           JPN     7   Berlin         16 SEP 
+2:25:24   Mare DIBABA 	         ETH    11   Frankfurt      28 OCT
+2:25:25   Volha MAZURONAK        BLR     1   Dusseldorf     29 APR
+2:25:27   Carla Salome ROCHA     POR     8   Berlin         16 SEP
+2:25:28   Dirke DEBELE           ETH     2   Hamburg        29 APR
+2:25:35   Kaoutar BOULAID        MAR     1   Sevilla        25 FEB
+2:25:35   Dalila ABDULKADIR      BRN     1   Saitama        09 DEC
+2:25:39   Shitaye ESHETE         BRN     2   Saitama        09 DEC
+2:25:41   Do-Yeon KIM            KOR     5   Seoul          18 MAR
+2:25:46   Miyuki UEHARA          JPN     9   Berlin         16 SEP
+2:25:48   Muluhabt TSEGA         ETH     5   Shanghai       18 NOV
+2:25:49   Amane GOBENA           ETH     1   Mumbai         21 JAN
+2:25:49   Ruth CHEBITOK          KEN     1   Barcelona      11 MAR
+2:25:51   Shewe HAYIMANOT        ETH     2   Sevilla        25 FEB
+2:25:54   Badane Bedatu HIRPA    ETH     3   Sevilla        25 FEB
+2:25:55   Zinash MEKONEN         ETH     7   Amsterdam      21 OCT
+2:25:57   Waganesh MEKASHA       ETH     1   Hengshui       29 SEP
+2:25:59   Jessica TRENGROVE      NZL     4   Toronto        21 OCT
+2:26:02   Vivian CHERUIYOT       KEN     2   New York       04 NOV
+2:26:03   Rose CHELIMO           BRN     6   London         22 APR
+2:26:06   Mimi BELETE            ETH     3   Hamburg        29 APR
+2:26:08   Florence KIPLAGAT      KEN     4   Chicago        07 OCT
+2:26:10   Shuko GENEMO           ETH     5   Ljubljana      28 OCT
+2:26:11   Hiwot GEBREKIDAN       ETH     2   Ottawa         27 MAY
+2:26:13   Yuka TAKASHIMA         JPN     8   Paris          08 APR
+2:26:20   Sara HALL              USA     3   Ottawa         27 MAY
+2:26:22   Volha MAZURONAK        BLR     1   Berlin         12 AUG
+2:26:22   Shalane FLANAGAN       USA     3   New York       04 NOV
+2:26:28   Rea IWADE              JPN     4   Nagoya         11 MAR 
+2:26:28   Clemence CALVIN        FRA     2   Berlin         12 AUG
+2:26:28   Workenesh EDESA        ETH     2   Hengshui       29 SEP
+2:26:31   Jessica TRENGROVE      AUS     2   Gold Coast     01 JUL
+2:26:31   Eva VRABCOVA-NYVLTOVA  CZE     3   Berlin         12 AUG
+2:26:33   Keiko NOGAMI           JPN     5   Nagoya         11 MAR  
+2:26:41   Fatuma SADO            ETH     1   Xiamen         07 JAN 
+2:26:44   Molly HUDDLE           USA     4   New York       04 NOV
+2:26:44   Tigist GIRMA           ETH     1   Guangzhou      09 DEC
+2:26:46   Dalila ABDULKADIR      BRN     2   Roma           08 APR
+2:26:50   Worknesh ALEMU         ETH    12   Frankfurt      28 OCT
+2:26:52   Muliye DEKEBO          ETH    10   Dubai          26 JAN
+2:26:54   Gebiyanesh AYELE       ETH     3   Hengshui       29 SEP
+2:26:56   Biruktayit ESHETU      ETH     2   Rotterdam      08 APR
+2:26:56   Eunice CHUMBA          BRN     2   Beijing        16 SEP
+2:26:58   Celestine CHEPCHIRCHIR KEN     5   Toronto        21 OCT
+2:27:02   Lucy Kabuu WANGUI      KEN     1   Milano         08 APR
+2:27:06   Mercy KIBARUS          KEN     6   Seoul          18 MAR
+2:27:08   Belaynesh BEYENE       ETH     2   Barcelona      11 MAR
+2:27:08   Vivian JERONO          KEN     2   Milano         08 APR
+2:27:12   Maurine CHEPKEMOI      KEN     4   Hengshui       29 SEP
+2:27:12   Mulu SEBOKA            ETH     1   Shenzen        16 DEC
+2:27:13   Rahma TUSA             ETH     5   New York       04 NOV
+2:27:15   Zinash DEBEBE          ETH     3   Guangzhou      09 DEC 
+2:27:16   Millian Naktar EBONGON KEN     1   Kosice         07 OCT
+2:27:21   Tsegaye MELESECH       ETH     3   Houston        14 JAN
+2:27:25   Meseret DEFAR          ETH     8   Amsterdam      21 OCT
+2:27:29   Rei OHARA              JPN     10  Berlin         16 SEP
+2:27:31   Hye Gyong KIM          PRK     1   Pyongyang      08 APR
+2:27:31   Hye Song KIM           PRK     2   Pyongyang      08 APR
+2:27:32   Gladys KIPSOI          KEN     4   Houston        14 JAN
+2:27:35   Tsehay Desalegn ADHANA ETH     2   Hangzhou       04 NOV
+2:27:37   Yuka ANDO              JPN     3   Osaka          28 JAN
+2:27:40   Hanae TANAKA           JPN     6   Nagoya         11 MAR
+2:27:41   Merima MOHAMED         ETH     7   Nagoya         11 MAR
+2:27:41   Fatuma SADO            ETH     3   Beijing        16 SEP
+2:27:42   Un-Ok JO               PRK     3   Pyongyang      22 APR
+2:27:44   Rei OHARA              JPN     8   Nagoya         11 MAR
+2:27:43   Amane GOBENA           ETH     3   Prague         06 MAY
+2:27:44   Maryna DAMANTSEVICH    BLR     4   Berlin         12 AUG
+2:27:45   Mare DIBABA            ETH     7   London         22 APR
+2:27:46   Genet YALEW            ETH     11  Dubai          26 JAN
+2:27:46   Agness BARSOSIO        KEN     3   Gold Coast     01 JUL
+2:27:47   Getachew ZINASH        ETH     4   Sevilla        25 FEB
+2:27:47   Yebrgual MELESE        ETH     2   Dongying       05 MAY
+2:27:49   Natassia IVANOVA       BLR     5   Berlin         12 AUG
+2:27:51   Desiree LINDEN         USA     6   New York       04 NOV
+2:27:53   Guteni SHONE           ETH     7   Seoul          18 MAR
+2:27:53   Sara DOSSENA           ITA     6   Berlin         12 AUG
+2:27:55   Kwang OK RI            PRK     4   Pyongyang      08 APR

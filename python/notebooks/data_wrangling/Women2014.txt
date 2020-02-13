@@ -1,0 +1,118 @@
+1:05:12   Florence Kiplagat           KEN     1   Barcelona         16 FEB
+1:06:19   Joyce Chepkirui             KEN     1   Prague            05 APR
+1:07:02   Priscah Jeptoo              KEN     1   Ras Al Khaimah    14 FEB
+1:07:29   Gladys Cherono              KEN     1   Copenhagen        29 MAR
+1:07:44   Mary Wacera Ngugi           KEN     2   Copenhagen        29 MAR
+1:07:52   Sally Kipyego Kaptich       KEN     3   Copenhagen        29 MAR
+1:07:57   Edna Kiplagat               KEN     1   Glasgow           05 OCT
+1:08:01   Emily Chebet                KEN     1   Valencia          19 OCT
+1:08:13   Filomena Cheyech            KEN     2   Ras Al Khaimah    14 FEB
+1:08:16   Cherono                     KEN     1   Yangzhou          20 APR
+1:08:20   Mamitu Daska                ETH     1   Boston            12 OCT
+1:08:24   Cynthia Cherotich Limo      KEN     2   Boston            12 OCT
+1:08:26   Emily Chebet                KEN     2   Prague            05 APR
+1:08:13   Flomena Cheych              KEN     2   Ras Al Khaimah    14 FEB
+1:08:31   Guteni Shone                ETH     3   Ras Al Khaimah    14 FEB
+1:08:31   Sally Kipyego               KEN     1   New York          16 MAR
+1:08:31   Eunice Kirwa                KEN     1   Luanda            07 SEP
+1:08:32   Jemima Sumgong              KEN     2   Luanda            07 SEP
+1:08:36   Helah Kiprop                KEN     4   Ras Al Khaimah    14 FEB
+1:08:36   Wude Ayalew                 ETH     3   Luanda            07 SEP
+1:08:37   Lucy Kabuu                  KEN     4   Copenhagen        29 MAR
+1:08:40   Rose Chelimo                KEN     1   Breda             05 OCT
+1:08:41   Aberu Kebede                ETH     1   Philadelphia      21 SEP
+1:08:42   Mercy Jerotich Kibatus      KEN     5   Copenhagen        29 MAR
+1:08:46   Worknesh Degefa             ETH     1   Lisboa            16 MAR
+1:08:46   Netsanet Gudeta             ETH     6   Copenhagen        29 MAR
+1:08:48   Jemima Jelegat              KEN     2   Lisboa            16 MAR
+1:08:48   Christelle Daunay           FRA     7   Copenhagen        29 MAR
+1:08:49   Rita Jeptoo                 KEN     5   Ras Al Khaimah    14 FEB
+1:08:51   Filomena Chepchirchir       KEN     3   Lisboa            16 MAR
+1:08:53   E Kiplagat                  KEN     1   Olomouc           21 JUN
+1:08:53   Caroline Kilel              KEN     2   Glasgow           05 OCT
+1:08:55   Valeria Straneo             ITA     8   Copenhagen        29 MAR
+1:08:56   Mare Dibaba                 ETH     6   Ras Al Khaimah    14 FEB
+1:08:59   Eunice Kirwa                KEN     4   Lisboa            16 MAR
+1:08:59   Bizunesh Deba               ETH     2   New York          16 MAR
+1:09:02   Margaret Wangari            KEN     2   Valencia          19 OCT
+1:09:04   Molly Huddle                USA     3   New York          16 MAR
+1:09:04   Tsehay Desalegn             ETH     9   Copenhagen        29 MAR
+1:09:06   Polline Njeru               KEN     1   Warsaw            30 MAR
+1:09:07   Worknesh Degefa             ETH     2   Yangzhou          20 APR
+1:09:10   Meskerem Assefa             ETH     3   Yangzhou          20 APR
+1:09:12   Peris Chepchirchir          KEN     1   Montbéliard       28 SEP
+1:09:15   Genet Yalew                 ETH    10   Copenhagen        29 MAR
+1:09:17   Daunay                      FRA     1   Karlovy Vary      24 MAY
+1:09:19   Feyse Tadese                ETH     7   Ras Al Khaimah    14 FEB
+1:09:20   Josephine Chepkoech         KEN     5   Lisboa            16 MAR
+1:09:22   Aberu Kebede                ETH     8   Ras Al Khaimah    14 FEB
+1:09:22   Worknesh Cebele             ETH     4   Luanda            07 SEP
+1:09:22   Caroline Rotich             KEN     2   Philadelphia      21 SEP
+1:09:23   Yebrgual Melese Arage       ETH     1   Paris             02 MAR
+1:09:23   Wude Ayalew                 ETH     3   Prague            05 APR
+1:09:23   Betelhem Moges              ETH     2   Olomouc           21 JUN
+1:09:23   Molly Huddle                USA     3   Boston            12 OCT
+1:09:24   Tomomi Tanaka               JPN     1   Yamaguchi         16 FEB
+1:09:27   Betsy Saina                 KEN     4   Boston            12 OCT
+1:09:28   Gulume Tollesa              ETH     4   Yangzhou          20 APR
+1:09:29   Rael Kiyara                 KEN     1   Lille             06 SEP
+1:09:30   Waganesh Mekasha            ETH     5   Yangzhou          20 APR
+1:09:30   Beatrice Mutai              KEN     3   Valencia          19 OCT
+1:09:31   Georgina Rono               KEN     2   Paris             02 MAR
+1:09:35   Goreti Chepkoech            KEN     1   Usti nad Labem    14 SEP
+1:09:36   Lisa Stublic                CRO     4   New York          16 MAR
+1:09:37   Deena Kastor                USA     3   Philadelphia      21 SEP
+1:09:38   Sarah Chepchirchir          KEN     3   Paris             02 MAR
+1:09:40   Cynthia Jerotich Limo       KEN     1   Madrid            06 APR
+1:09:42   Mercy Kibarus               KEN     4   Paris             02 MAR
+1:09:43   Degefa                      ETH     9   Ras Al Khaimah    14 FEB
+1:09:44   Monica Chepkoech            KEN     5   Paris             02 MAR
+1:09:44   Shalene Flanagan            USA     1   Chicago           20 JUL
+1:09:45   Straneo                     ITA     1   Verona            16 FEB
+1:09:45   Letebirhan Gebreselasie     ETH     1   Paderborn         19 APR
+1:09:46   Kiprop                      KEN     1   Zwolle            14 JUN
+1:09:47   Straneo                     ITA     6   Lisboa            16 MAR
+1:09:49   Esther Chemtai              KEN     4   Prague            05 APR
+1:09:50   Sharon Cherop               KEN     5   Luanda            07 SEP
+1:09:52   Afera Godfay                ETH     5   Prague            05 APR
+1:09:53   Jane Kiptoo                 KEN     7   Lisboa            16 MAR
+1:09:57   Kibarus                     KEN     6   Luanda            07 SEP
+1:09:58   Caroline Rotich             KEN     1   Naples, USA       19 JAN
+1:10:00   Caroline Kilel              KEN     5   New York          16 MAR
+1:10:03   Rkia El Moukim              MAR     1   Marrakech         26 JAN
+1:10:04   F Kiplagat                  KEN     1   New Delhi         23 NOV
+1:10:05   Tadelech Bekele             ETH     1   Berlin            30 MAR
+1:10:05   Gladys Cherono              KEN     2   New Delhi         23 NOV
+1:10:07   Worknesh Degefa             ETH     3   New Delhi         23 NOV
+1:10:08   Waganesh Mekasha            ETH     1   Stresa            09 MAR
+1:10:08   Krisztina Papp              HUN    11   Copenhagen        29 MAR
+1:10:08   Mame Feyisa                 ETH    12   Copenhagen        29 MAR
+1:10:08   Belaynesh Oljira            ETH     4   New Delhi         23 NOV
+1:10:09   Diane Nukuri-Johnson        BDI     6   New York          16 MAR
+1:10:09   Cynthia Cherotich Limo      KEN     5   New Delhi         23 NOV
+1:10:10   Anna Incerti                ITA     2   Verona            16 FEB
+1:10:10   Risa Takenaka               JPN     2   Yamaguchi         16 FEB
+1:10:10   Guteni Shone                ETH     7   Luanda            07 SEP
+1:10:10   Kabuu                       KEN     6   New Delhi         23 NOV
+1:10:11   Annie Bersagel              USA    13   Copenhagen        29 MAR
+1:10:11   Leonidah Mosop              KEN     2   Paderborn         19 APR
+1:10:12   Worknesh Degefa             ETH     1   Goteborg          17 MAY
+1:10:13   Agnes Mutune                KEN     2   Berlin            30 MAR
+1:10:15   Elizeba Cheroni             KEN     1   Venlo             30 MAR
+1:10:15   Alice Chepkemboi            KEN     1   Bejaia            02 MAY
+1:10:16   Lauren Kleppin              USA    14   Copenhagen        29 MAR
+1:10:17   Ayumi Hagiwara              JPN     1   Matsue            16 MAR
+1:10:17   Tadelech Bekele             ETH     7   New Delhi         23 NOV
+1:10:18   Sayio Nomura                JPN    15   Copenhagen        29 MAR
+1:10:21   Joyce Kiplimo               KEN     6   Yangzhou          20 APR
+1:10:23   Mekasha                     ETH     6   Prague            05 APR
+1:10:24   Tadelech Bekele             ETH     2   Goteborg          17 MAY
+1:10:24   Isabella Ochichi            KEN     1   Honolulu          13 APR
+1:10:25   Hirut Alemayehu             ETH    17   Copenhagen        29 MAR
+1:10:25   Anna Incerti                ITA     1   Trieste           04 MAY
+1:10:27   Eri Makikawa                JPN     1   Marugame          02 FEB
+1:10:26   Beatrice Mutai              KEN     8   New Delhi         23 NOV
+1:10:29   Fyles Ongori Moraa          KEN     8   Lisboa            16 MAR
+1:10:30   Risa Takanaka               JPN    18   Copenhagen        29 MAR
+1:10:30   Agnes Mutune                KEN     2   Zwolle            14 JUN
+1:10:30   Mary Wacera                 KEN     8   Luanda            07 SEP

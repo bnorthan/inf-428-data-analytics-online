@@ -1,0 +1,189 @@
+2:02:57   Dennis Kimetto              KEN     1   Berlin            29 SEP
+2:03:13   Emmanuel Mutai              KEN     2   Berlin            29 SEP
+2:04:11   Eliud Kipchoge              KEN     1   Chicago           12 OCT
+2:04:28   Sammy Kitwara               KEN     2   Chicago           12 OCT
+2:04:29   Wilson Kipsang              KEN     1   London            13 APR
+2:04:32   Tsegaye Mekonnen            ETH     1   Dubai             24 JAN
+2:04:32   Dickson Chumba              KEN     3   Chicago           12 OCT
+2:04:55   Stanley Biwott              KEN     2   London            13 APR
+2:05:00   Eliud Kipchoge              KEN     1   Rotterdam         13 APR
+2:05:03   Kenenisa  Bekele            ETH     1   Paris             06 APR
+2:05:13   Markos Geneti               ETH     2   Dubai             24 JAN
+2:05:41   Getu Feleke                 ETH     1   Vienna            13 APR
+2:05:42   Dickson Chumba              KEN     1   Tokyo             23 FEB
+2:05:49   Girmay Birhanu              ETH     3   Dubai             24 JAN
+2:05:51   Kenenisa Bekele             ETH     5   Chicago           12 OCT
+2:05:56   Abera Kuma                  ETH     3   Berlin            29 SEP
+2:05:57   Tadese Tola W/geberel       ETH     2   Tokyo             23 FEB
+2:06:08   Bernard Koech               KEN     2   Rotterdam         13 APR
+2:06:17   Tamirat Tola                ETH     4   Dubai             24 JAN
+2:06:17   Yacob Yarso                 ETH     1   Seoul             16 MAR
+2:06:21   Tilahun Regassa             ETH     1   Eindhoven         12 OCT
+2:06:22   Bernard Kipyego             KEN     1   Amstrerdam        19 OCT
+2:06:24   Stephen Chemlany            KEN     2   Seoul             16 MAR
+2:06:30   Sammy Kitwara               KEN     3   Tokyo             23 FEB
+2:06:30   Tsegaye Kebede              ETH     3   London            13 APR
+2:06:31   Ayele Abshero               ETH     4   London            13 APR
+2:06:39   Geoffrey Kwamworor          KEN     4   Berlin            29 SEP
+2:06:43   Shumi Dechase               ETH     1   Hamburg           04 MAY
+2:06:44   Gilbert Kirwa               KEN     3   Seoul             16 MAR
+2:06:47   Jonathan Maiyo              KEN     2   Eindhoven         12 OCT
+2:06:49   Limenih Getachew            ETH     2   Paris             06 APR
+2:06:49   Mark Kiptoo                 KEN     1   Frankfurt         26 OCT
+2:06:51   Yemane Tsegay Adhane        ETH     1   Daegu             06 APR
+2:06:54   Adhane                      ETH     1   Ottawa            25 MAY
+2:06:55   Tadese Tola                 ETH     1   Warsaw            13 APR
+2:06:58   Michael Kipyego             KEN     4   Tokyo             23 FEB
+2:06:59   Mike Kigen                  KEN     2   Frankfurt         26 OCT
+2:07:00   Eric Ndiema                 KEN     2   Hamburg           04 MAY
+2:07:02   Tariku Jufar                ETH     4   Seoul             16 MAR
+2:07:05   Peter Kimeli Some           KEN     5   Tokyo             23 FEB
+2:07:06   Ghebretsadik Abraha         ETH     2   Daegu             06 APR
+2:07:07   Philemon Rono               KEN     3   Hamburg           04 MAY
+2:07:08   Abraham Cherkos             KEN     5   Seoul             16 MAR
+2:07:08   Gilbert Yegon               KEN     3   Frankfurt         26 OCT
+2:07:10   Belay Asefa                 ETH     4   Hamburg           04 MAY
+2:07:10   Tebalu Zawude               ETH     4   Frankfurt         26 OCT
+2:07:11   Alfers Lagat                KEN     3   Eindhoven         12 OCT
+2:07:11   Nickson Kurgat              KEN     1   Chuncheon         26 OCT
+2:07:12   Azmeraw Bekele              ETH     5   Dubai             24 JAN
+2:07:13   Shumi Duchase               ETH     6   Dubai             24 JAN
+2:07:15   Silas Chebott               KEN     1   Gyeongju          19 OCT
+2:07:16   Deribe Robi                 ETH     5   Frankfurt         26 OCT
+2:07:18   Kurgat                      KEN     3   Daegu             06 APR
+2:07:18   Lucas Rotich                KEN     2   Amsterdam         19 OCT
+2:07:28   Eliud Kiptanui              KEN     5   Berlin            29 SEP
+2:07:28   John Mwangangi              KEN     3   Amsterdam         19 OCT
+2:07:29   Ronald Korir                KEN     6   Frankfurt         26 OCT
+2:07:38   James Kwambai               KEN     6   Seoul             16 MAR
+2:07:32   Bazu Worku                  ETH     1   Houston           19 JAN
+2:07:35   Frankline Chepkwony         KEN     6   Berlin            29 SEP
+2:07:37   Geoffrey Kipsang            KEN     6   Tokyo             23 FEB
+2:07:38   Markos Geneti               ETH     1   Hengshui          20 SEP
+2:07:40   Deressa Chimsa              ETH     7   Tokyo             23 FEB
+2:07:43   Elijah Kemboi               KEN     4   Daegu             06 APR
+2:07:43   Feyisa Bekele               ETH     1   Seoul             09 NOV
+2:07:46   Abrha Milaw                 ETH     7   Dubai             24 JAN
+2:07:46   Evans Chebet                KEN     2   Seoul             09 NOV
+2:07:52   Thomas Rono                 KEN     3   Seoul             09 NOV
+2:07:53   Jacob Kendagor              KEN     5   Daegu             06 APR
+2:07:53   Joel Kimurer Kemboi         KEN     2   Gyeongju         19 OCT
+2:07:54   Getachew Terfa              ETH     2   Houston           19 JAN
+2:07:54   Essa Ismail Rashed          QAT     4   Amsterdam        19 OCT
+2:07:58   Bernard Kipyego             KEN     3   Rotterdam         13 APR
+2:08:01   Luka Kanda                  KEN     3   Paris             06 APR
+2:08:02   Deriba Robi                 ETH     4   Rotterdam         13 APR
+2:08:03   Laban Mutai                 KEN     1   Linz              06 APR
+2:08:04   Robi                        ETH     1   Marrakech         26 JAN
+2:08:04   Laban Korir                 KEN     5   Hamburg           04 MAY
+2:08:05   Sammy Korir                 KEN     4   Eindhoven         12 OCT
+2:08:05   Felix Kiprotich             KEN     1   Rennes            26 OCT
+2:08:06   Mariko Kiplagat             KEN     1   Xiamen            02 JAN
+2:08:06   Tsegaye Mekonnen            ETH     5   London            13 APR
+2:08:06   John Mwangangi              KEN     6   Hamburg           04 MAY
+2:08:07   Gilbert Yegon               KEN     1   Dusseldorf        27 APR
+2:08:07   Patrick Terer               KEN     1   Prague            11 MAY
+2:08:09   Kohei Matsumura             JPN     8   Tokyo             23 FEB
+2:08:09   Levy Matebo                 KEN     2   Warsaw            13 APR
+2:08:15   Laban Kipngetich Korir      KEN     1   Toronto           19 OCT
+2:08:17   Evans Chebet                KEN     2   Prague            11 MAY
+2:08:17   Dereje Tesfaye              ETH     3   Gyeongju          19 OCT
+2:08:18   Mulugetu Wami               ETH     2   Ottawa            25 MAY
+2:08:18   Abera Kassw                 ETH     8   Dubai             24 JAN
+2:08:18   Geoffrey Mutai              KEN     6   London            13 APR
+2:08:18   Daniel Kinyua Wanjiru       KEN     7   Frankfurt         26 OCT
+2:08:19   Emmanuel Mutai              KEN     7   London            13 APR
+2:08:20   Tebalu Heyi                 ETH     2   Marrakech         26 JAN
+2:08:21   Mo Farah                    GBR     8   London            13 APR
+2:08:21   Samuel Ndungu Wanjiku       KEN     1   Lisboa            05 OCT
+2:08:22   Patrick Makau               KEN     1   Fukuoka           07 DEC
+2:08:25   Ishhimael Bushendich        KEN     1   Ljubljana         26 OCT
+2:08:26   Feyisa Lilesa               ETH     9   London            13 APR
+2:08:26   Gilbert Kiptoo              KEN     1   Košice            05 OCT
+2:08:27   Beraki Beyene               ERI     2   Hengshui          20 SEP
+2:08:28   Alfred Kering               KEN     2   Vienna            13 APR
+2:08:30   Bernard Kiprop Koech        KEN     5   Chicago           12 OCT
+2:08:31   Adugna Takele               ETH     8   Frankfurt         26 OCT
+2:08:32   Endeshaw Negesse            ETH     2   Dusseldorf        27 APR
+2:08:32   Serhiy Lebid                UKR     4   Seoul             09 NOV
+2:08:33   Cosmas Kiplimo Lagat        KEN     1   Seville           23 FEB
+2:08:33   Levy Matebo                 KEN     7   Berlin            29 SEP
+2:08:35   Ishmael Bushendich          KEN     3   Ottawa            25 MAY
+2:08:36   Tariku Jufar                ETH     2   Toronto           19 OCT
+2:08:37   Ishmael Bushendich          KEN     3   Ottawa            25 MAY
+2:08:37   Elijah Keitany              KEN     2   Ljubljana         26 OCT
+2:08:39   Jacob Kibet Kendagor        KEN     1   Valencia          16 NOV
+2:08:41   Shami ABDULAHI              ETH     3   Toronto           19 OCT
+2:08:43   Stephen Mokoka              RSA     1   Shanghai          02 NOV
+2:08:45   Belay Assefa                ETH     4   Gyeongju          19 OCT
+2:08:47   Abreham Cherkos             ETH     2   Shanghai          02 NOV
+2:08:48   Robert Kwambai              KEN     4   Paris             06 APR
+2:08:48   Luka Rotich Lobuwan         KEN     5   Seoul             09 NOV
+2:08:48   Raji Assefa                 ETH  2   Fukuoka              07 DEC
+2:08:50   Ser-Od Bat-Ochir            MGL     3   Fukuoka           07 DEC
+2:08:51   Koji Kobayashi              JPN     9   Tokyo             23 FEB
+2:08:53   Francis Kiprop              KEN     1   Milano            06 APR
+2:08:55   Jose Antonio Uribe          MEX     3   Houston           19 JAN
+2:08:55   Henryk Szost                POL     3   Warsaw            13 APR
+2:08:56   Stephen Chemlany            KEN     3   Shanghai          02 NOV
+2:08:58   Philip Kimutai Sanga        KEN     3   Vienna            13 APR
+2:08:58   Patrick Terer               KEN     4   Toronto           19 OCT
+2:09:04   Abel Kirui                  KEN    10   Tokyo             23 FEB
+2:09:04   Felix Keny                  KEN     7   Hamburg           04 MAY
+2:09:04   Edwin Kibet Koech           KEN     3   Ljubljana         26 OCT
+2:09:05   Jackson Limo                KEN     5   Paris             06 APR
+2:09:05   Charles Cheruiyot           KEN     4   Warsaw            13 APR
+2:09:06   Masakazu Fujiwara           JPN     4   Fukuoka           07 DEC
+2:09:07   Daniel Rono                 KEN     3   Marrakech         26 JAN
+2:09:07   Hirokatsu Kurosaki          JPN    11   Tokyo             23 FEB
+2:09:08   Ghirmay Ghebreslassie       ERI     6   Chicago           12 OCT
+2:09:10   Masanori Sakai              JPN    12   Tokyo             23 FEB
+2:09:10   Worku Hayla                 ETH     1   Otsu              23 FEB
+2:09:10   Samuel Kiplimo Kosgei       KEN     2   Valencia          16 NOV
+2:09:14   Weldu Negash                ETH     5   Rotterdam         13 APR
+2:09:14   Silas Kipkemboi Limo        KEN     1   Gold Coast        06 JUL
+2:09:15   Ezekiel Kiptoo              KEN     1   Madrid            27 APR
+2:09:15   Daniel Kipkurgat Rono       KEN     6   Seoul             09 NOV
+2:09:17   Duncan Koech                KEN     4   Vienna            13 APR
+2:09:17   Wesley Korir                KEN     4   Ottawa            25 MAY
+2:09:21   Elijah Kiprono Kemboi       KEN     5   Amsterdam         19 OCT
+2:09:22   Lucas Rotich                KEN     8   Hamburg           04 MAY
+2:09:22   Francis Kipkorir Kiprop     KEN     3   Valencia          16 NOV
+2:09:23   Abraham Kiplimo             UGA     1   Oita              02 FEB
+2:09:25   William Chebor              KEN     1   Brighton          06 APR
+2:09:25   Laban Kipkemoi Moiben       KEN     5   Gyeongju          19 OCT
+2:09:26   Shume Hailu                 ETH     1   Cannes            09 NOV
+2:09:28   Julius Muriuki              KEN     2   Xiamen            02 JAN
+2:09:29   Suehiro Ishikawa            JPN    13   Tokyo             23 FEB
+2:09:29   Mutai Kipkemei              KEN     3   Hengshui          20 SEP
+2:09:30   Masato Imai                 JPN     2   Oita              02 FEB
+2:09:32   Arne Gabius                 GER     9   Frankfurt         26 OCT
+2:09:33   Evans Ruto                  KEN     1   Mumbai            19 JAN
+2:09:34   Fikadu Tefere               ETH     3   Dusseldorf        27 APR
+2:09:35   Dereje Debele               ETH     3   Xiamen            02 JAN
+2:09:35   Cyrus Njubi Gichobi         KEN    14   Tokyo             23 FEB
+2:09:36   Dominic Kangor              KEN     2   Brighton          06 APR
+2:09:36   Yuki Kawauchi               JPN     9   Hamburg           04 MAY
+2:09:38   Allan Kipkorir Kiprono      KEN    10   Frankfurt         26 OCT
+2:09:43   Gilbert Kipruto Kirwa       KEN     6   Gyeongju          19 OCT
+2:09:45   Lawrence Kimaiyo            KEN     2   Mumbai            19 JAN
+2:09:45   Abel Kirui                  KEN     6   Amsterdam         19 OCT
+2:09:45   Lawrence Kimaiyo            KEN     2   Mumbai            19 JAN
+2:09:46   Kipkemoi Kipsang            KEN     2   Linz              06 APR
+2:09:47   Satoru Sasaki               JPN     2   Otsu              23 FEB
+2:09:47   Legese Shume Hailu          ETH     1   Rome              23 MAR
+2:09:47   Endeshaw Negesse            ETH     4   Shanghai          02 NOV
+2:09:50   Alemayehu Belachew          ETH     9   Dubai             24 JAN
+2:09:52   Cuthbert Nyasango           ZIM     3   Prague            11 MAY
+2:09:53   Abera Kuma                  ETH    10   Dubai             24 JAN
+2:09:53   Vitaliy Shafar              UKR     5   Toronto           19 OCT
+2:09:54   Vincent Kipruto Limo        KEN     3   Otsu              23 FEB
+2:09:54   Limenih Getachew            ETH     4   Hengshui          20 SEP
+2:09:55   Asbel Kipsang               KEN     1   Firenze           30 NOV
+2:09:57   Cosmas Mutuku Kyeva         KEN     1   Debno             13 APR
+2:09:58   Philemon Baaru              KEN     3   Mumbai            19 JAN
+2:09:58   Cosa Tafa                   ETH     4   Marrakech         26 JAN
+2:09:59   Victor Kipchirchir          KEN     1   Warsaw            28 SEP
+2:09:59   Tomoya Adachi               JPN     5   Fukuoka           07 DEC
+2:10:00   Ghebrezgiabhier Kibrom      ERI     4   Hengshui          20 SEP
+2:10:00   Samuel Kemboi Rutto         KEN     1   Torino            16 NOV
