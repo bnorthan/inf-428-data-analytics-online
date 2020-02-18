@@ -37,7 +37,7 @@ Note: Make sure you get the version with Python 3.7 (or higher) (NOT 2.7) or the
 5.  Alternatively you can get [Python notebook hello world](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/introduction/PythonNotebookHelloWorld.ipynb)  directly from the web. 
 2.  Run the first cell of the notebook.  
 
-See Video demonstration - 
+[See Video demonstration](https://www.youtube.com/watch?v=EEEZX_0FMEc) 
 
 If you have any issues, please post on our discussion group. 
 
