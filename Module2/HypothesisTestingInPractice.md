@@ -3,21 +3,28 @@
 ## Single Sample t-test in KNIME  
 See example Statistics->SingleSampleT_test on the KNIME Server  
 
-1) Search for t-test in the node repository  
-2) Configure t-test with "test value" and choose the column to test   
+1. Search for t-test in the node repository  
+2. Configure t-test with "test value" and choose the column to test   
 
 <img src="SingleSampleKNIME.jpg" width="800">  
 
 ## Independent Groups t-test in KNIME
 See example Statistics->IndenpendentGroupsT_test on the KNIME Server
 
-1) Search for t-test in the node repository  
-2) Configure t-test with Grouping Column and names of group 1 and group 2
-(note you may have to re-organize data so that it has a 'label' column)  
+1. Search for t-test in the node repository  
+2. Configure t-test with Grouping Column and names of group 1 and group 2
+3. note you may have to open the data in a spread sheet and re-organize data so that it has a 'label' column.  A label collumn contains the label for the groups.  For example if the groups are dog and cat and the name of the group is type the table may look as follows
+
+| Name | Weight | Type |
+|------|--------|-------|
+|Fluffy| 33|Dog
+|Claws|15|Cat
+|Smokie|45|Dog
+|Mr. Big|9|Cat
 
 <img src="IndependentGroupsKNIME.jpg" width="800">  
 
-## Single Sample t-test in KNIME 
+## Single Sample t-test in Python 
 
 See [this example](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/statistics/HumanBodyTemp.ipynb)
 
