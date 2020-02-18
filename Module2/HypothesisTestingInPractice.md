@@ -11,8 +11,8 @@ See example Statistics->SingleSampleT_test on the KNIME Server
 ## Independent Groups t-test in KNIME
 See example Statistics->IndenpendentGroupsT_test on the KNIME Server
 
-1. Search for t-test in the node repository  
-2. Configure t-test with Grouping Column and names of group 1 and group 2
+1. Search for t-test in the node repository and import the node into your workspace.     
+2. Right click on the node to show the node menu and choose 'Configure' t-test with Grouping Column and names of group 1 and group 2
 3. note you may have to open the data in a spread sheet and re-organize data so that it has a 'label' column.  A label collumn contains the label for the groups.  For example if the groups are dog and cat and the name of the group is type the table may look as follows
 
 | Name | Weight | Type |
