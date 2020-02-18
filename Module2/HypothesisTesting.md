@@ -35,19 +35,6 @@ The p-value is the probability of obtaining the observed sample results (or a mo
 * Read [Wikipedia Explanation](https://en.wikipedia.org/wiki/Student%27s_t-test#One-sample_t-test)  
 * The single sample t-test tests whether a population mean is different from a test value.  The null hypothesis is that there is no difference.  If we reject the null hypothesis the poplulation mean is different from the test value. 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script type="text/javascript"
-            		src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    		</script>
-<h4>Single sample t-test</h4>
-<ul>
-	<li> $\overline{x}$ sample mean</li>
-	<li>$\mu_0$ hypothesis mean</li>
-	<li> Null hypothesis -> $\overline{x}=\mu_0$</li>
-	<li> high P -> $\overline{x}$ more likely to be close to $\mu_0$,</li>
-</ul>  
-
 ## INDEPENDENT (UNPAIRED) SAMPLES
 
 * Tests if mean values are different between two samples
