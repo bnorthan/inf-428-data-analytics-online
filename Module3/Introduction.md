@@ -9,7 +9,7 @@ In this class we will use two main tools for "Data Wrangling" KNIME and Pandas
 
 ## Why Pandas??
 
-Pandas is a python library.  It allows us to manipulate data programatically.  Then we can apply other tool sets (like the plotting library matplotlib or the machine learning libary scikitlearn) down streams.
+Pandas is a python library.  It allows us to manipulate data programatically.  Then we can apply other tool sets (like the plotting library matplotlib or the machine learning libary scikitlearn) downstream.
 
 ## Why KNIME??
 
@@ -17,7 +17,7 @@ KNIME allows us to perform most data wrangling operations using visual programmi
 
 ## Why Both?? 
 
-Learning a bit about both will increase your options in the future.  You should learn enough about each that in the future jobs and further studies with either traditional or visual studies, become an option.  
+Learning a bit about both will increase your options in the future.  You should learn enough about each that in the future, jobs and further studies with either, are an option.  
 
 ## Data Wrangling operations we will learn
 
@@ -26,4 +26,5 @@ Learning a bit about both will increase your options in the future.  You should 
 * Sort data
 * Clean data
 * Eliminate un-needed or redundant data
+* Join, Merge and Concatenate data
  
