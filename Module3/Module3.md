@@ -1,15 +1,16 @@
 # Module 3 Data Wrangling 
 
-## February x-x
+## February 22-(apr.) March 2
 
-## Reference Material
+## Reference Material 
+
+Read 
 
 Chapter 4: Python Data Analysis  
 Chapter 5: KNIME Beginner's Luck  
 [Pandas Documentation](https://pandas.pydata.org/)  
 
 ## Schedule
-
 
 | sub-module|Description|
 |---|---|
