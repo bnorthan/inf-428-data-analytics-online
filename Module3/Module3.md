@@ -7,8 +7,15 @@
 Read 
 
 Chapter 4: Python Data Analysis  
-Chapter 5: KNIME Beginner's Luck  
 [Pandas Documentation](https://pandas.pydata.org/)  
+
+Selected sections from KNIME Beginner's Luck  
+
+2.5 Filter Data Columns
+2.6 Filter Data Rows
+3.7 Aggregations and Binning
+5.3 Transform Rows
+5.4 Joining Columns
 
 ## Schedule
 
