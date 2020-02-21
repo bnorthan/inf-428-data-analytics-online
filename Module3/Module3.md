@@ -11,11 +11,11 @@ Chapter 4: Python Data Analysis
 
 Selected sections from KNIME Beginner's Luck  
 
-2.5 Filter Data Columns
-2.6 Filter Data Rows
-3.7 Aggregations and Binning
-5.3 Transform Rows
-5.4 Joining Columns
+2.5 Filter Data Columns  
+2.6 Filter Data Rows  
+3.7 Aggregations and Binning  
+5.3 Transform Rows  
+5.4 Joining Columns  
 
 ## Schedule
 
