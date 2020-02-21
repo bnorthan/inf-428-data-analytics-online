@@ -31,7 +31,6 @@ Answer the following questions in a word document and submit on BlackBoard
 4.  Modify the notebook so that we also read the men and women datasets from 2013 and 2018 (hint you will have to copy and paste a bit).  Run the notebook over and take a screen shot.  After this modification you should have stats for years 2013 and 2018 in addition to 2015 and 2019.    
 5.  Change the ```numRunnersToAnalyze``` parameter to 10 and rerun the notebook.  Take a screen shot.  Are the trends in performance for the top 10 different than the top 100?? 
 6.  What does the following block do??  what id ```def``` used for??  Why is there no output when you run the block?
-
 ``` python
 def timeToSeconds(time):
     temp=time.split(':')
@@ -43,5 +42,5 @@ final['seconds']=final['time'].apply(lambda x: timeToSeconds(x))
 ```
 8.  Output the ```final``` dataframe to a csv file and import it into KNIME (take a screen shot)  
 9.  Rerun the groupby operation in KNIME (take a screen shot) 
-10.  In Python and KNIME make a barplot showing the average time of each runner.  
+10.  In Python and KNIME make a barplot showing the average time of each runner. (Submit a scrren shot) 
 11.  Repeat block 1 of the Python notebook (where we open and concatenate data, in KNIME).  You will have to figure out how to add column headers in KNIME, how to open (or select) only the first 100 rows, and how to concatenate data.  At the end of the process you should have a larger file which combines all years and genders of the data.  Take a screen shot of the work flow and final table, and insert into the word document.  
