@@ -15,7 +15,5 @@ Chapter 3: KNIME Beginner's luck
 | sub-module|Description|
 |---|---|
 |[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Introduction) | Chart Suggestions |
-|[t](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Pandas) | What is Pandas? |
-|[t](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/KNIME) | How to manipulate data in KNIME |
-|[t](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/GroupBy) | What is Groupby?<br> Groupby in Pandas and KNIME |
-|[Assignment 4](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Assignment) |  |
+|[Visualization with Python and Pandas](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/PythonPands) | Visualization with Python |
+[Assignment 4](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Assignment) |  |
