@@ -3,7 +3,7 @@
 
 ### Tools
 
-There are an overwhelming number of tools
+There is an incredible number of tools for visualizing data.  Some are listed below.  
 
 * excel
 * [Tableau](https://www.tableau.com/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau&adgroup=CTX-Brand-Priority-Core-E&adused=ETA&matchtype=e&placement=&gclid=CjwKCAiAy9jyBRA6EiwAeclQhAtzHelr0sWQy_ijlrd8XLMgXQaz_aG9fWAk0XTdgTLnpOcBe69E9hoCJqoQAvD_BwE&gclsrc=aw.ds)
