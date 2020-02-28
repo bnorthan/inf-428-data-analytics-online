@@ -8,4 +8,18 @@ Matplotlib is a plotting library for Python.  Use Matplotlib to plot Python stru
 
 ## Basic Visualization with Matplotlib
 
-Download and work through this [notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/BasicPython.ipynb) to learn the basics of Matplotlib.
+Download and work through this [notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/BasicPython.ipynb) to learn the basics of Matplotlib.  This example show how to do a line chart.
+
+## Python examples 
+
+[This notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/PythonExamples.ipynb) shows how to create other basic plot types.  The basic plot types are. 
+
+### Line Charts
+
+Line charts are useful to show trends
+
+<img src="linechart.png" width="700">
+
+### Bar Charts
+
+Bar charts are useful when performing a comparison 
