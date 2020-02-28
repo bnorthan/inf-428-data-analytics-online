@@ -18,7 +18,7 @@ Download and work through this [notebook](https://github.com/bnorthan/inf-428-da
 
 Line charts are useful to show trends
 
-<img src="linechart.png" width="700">
+<img src="linechart.png" width="300">
 
 ### Bar Charts
 
