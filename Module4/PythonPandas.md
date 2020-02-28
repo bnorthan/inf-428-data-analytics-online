@@ -16,7 +16,7 @@ Download and work through this [notebook](https://github.com/bnorthan/inf-428-da
 
 ### Line Charts
 
-Line charts are useful to show trends
+Line charts are useful to show trends.  Line charts show the evolution of a dependent variable on the y axis as a function of x.  For example you could show the evolution of a variable as a function of time, like the number of sales your company has made per time perid. This [notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/BasicPython.ipynb) shows how to create, add legends, lable and a title and add a grid to a line chart.  The basic concepts are applicable to any type of chart. 
 
 <img src="linechart.png" width="300">
 
