@@ -22,4 +22,6 @@ Line charts are useful to show trends.  Line charts show the evolution of a depe
 
 ### Bar Charts
 
-Bar charts are useful when performing a comparison 
+Bar charts are useful when performing a comparison.  In the [example notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/PythonExamples.ipynb) there is a cell that shows how to use a bar chart to compare points scored by different basketball players.
+
+<img src="barchart.png" width="300">
