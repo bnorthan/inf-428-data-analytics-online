@@ -31,4 +31,11 @@ basketball_stats.plot.scatter('Age','PTS',ax=ax2)
 
 <img src="PandasScatter.png" width="300">
 
+## Using Pandas and groupby for bar and pie chars 
+
+Download and work through this [notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization/PandasGroupbyBarPie.ipynb) to learn how to use groupby to precondition data for plotting bar and pie charts.  
+
+<img src="PandasBar.png" width="300">
+<img src="PandasPie.png" width="300">
+
 
