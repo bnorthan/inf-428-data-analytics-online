@@ -1,4 +1,4 @@
-# Visualization with Python and Pandas
+# Visualization with Python via Matplotlib 
 
 We will learn visualization with Python a few different ways.  Each way is demonstrated using a series of notebooks. 
 
