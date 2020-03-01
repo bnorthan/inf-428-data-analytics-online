@@ -15,6 +15,6 @@ Chapter 3: KNIME Beginner's luck
 | sub-module|Description|
 |---|---|
 |[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Introduction) | Chart Suggestions <br> Tool lists|
-|[Visualizationing Python Types (like arrays)](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Python) | Visualization with Python |
-|[Visualizationing Python with Pandas](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Pandas) | Visualization with Pandas |
+|[Visualizing Python Types (like arrays)](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Python) | Visualization with Python |
+|[Visualization using Python with Pandas](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Pandas) | Visualization with Pandas |
 [Assignment 4](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/Assignment) |  |
