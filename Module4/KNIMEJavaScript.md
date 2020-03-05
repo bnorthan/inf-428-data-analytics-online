@@ -12,6 +12,7 @@ As mentioned above there are some very good examples [here](https://www.knime.co
 
 There is also an example on the class KNIME Server called VisualizeBasketballJavaScript.  
 
+## Grouped bar chart example
 
 ### Choose the Javascript Barchart
 In the node repository search for 'bar chart' then choose the Javascript bar chart (not the JFreeChart bar chart)
@@ -22,7 +23,8 @@ In the node repository search for 'bar chart' then choose the Javascript bar cha
 Read a file using the File Reader and connect it to the bar chart.  In this case we read a file containing basketball stats.  Then right click on the bar chart node and choose configure.  
 
 1.  Check generate image  
-2.  Choose category collumn.  In this case we choose 'Pos' so we can chart different basketball stats per position.  
+2.  Choose category collumn.  In this case we choose 'Pos' so we can chart different basketball stats per position.  This is equivalent to using the 'groupy' function in Python.  
+3.  Choose how to aggregate the groups by choosing the 'Aggregation Method'.  
 3.  Then choose which stats to plot.  In this case we choose 'TRB', 'AST', and 'PTS'.  
 <img src="BarChartConfigure.jpg" width="300"> 
 
@@ -44,3 +46,20 @@ To export as an HTML file
 4.  You now have an HTML file which can be viewed in a web browser and or uploaded to a web server.  
 
 <img src="InteractiveViewSave.jpg" width="300">   
+
+## Java Script Scatter plot
+
+### Color Manager
+
+Before adding the scatter plot node, we add a Color Manager node.  We do this because we want to visualize each class with a point of a different color.  This is useful when trying to find trends between different classes.   The main thing you need to set for the color manager node is the column that contains the class names.  In this case we use the 'Pos' column so we can assign each basketball position a color. 
+
+<img src="ColorManager.jpg" width="300">
+
+### Interactive View: Scatter Plot
+
+Right click on the scatter plot node and choose 'Interactive View: Scatter plot'.
+
+Note on the menu one can change the 'X Column' and the 'Y Column'.  This allows one to explore potential relationships between variables.  
+
+<img src="KNIMEScatterPlot.jpg" width="300">
+
