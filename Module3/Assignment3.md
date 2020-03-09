@@ -42,5 +42,10 @@ final['seconds']=final['time'].apply(lambda x: timeToSeconds(x))
 ```
 8.  Output the ```final``` dataframe to a csv file and import it into KNIME (take a screen shot)  
 9.  Rerun the groupby operation in KNIME, but groupby country and aggregate the mean of time in seconds (take a screen shot).  
-10.  In Python and KNIME make a barplot showing the average time of each runner. (Submit a scrren shot) 
-11.  Repeat block 1 of the Python notebook (where we open and concatenate data, in KNIME).  You will have to figure out how to add column headers in KNIME, how to open (or select) only the first 100 rows, and how to concatenate data.  At the end of the process you should have a larger file which combines all years and genders of the data.  Take a screen shot of the work flow and final table, and insert into the word document.  
+10.  In Python make a barplot showing the average time of each of the 8 groups of runners. (It is one line of code once you have the groups).
+11.  In KNIME make a barplot showing the average time of runners from each country (hint use the KNIME Javascript barplot and follow this [example](https://bnorthan.github.io/inf-428-data-analytics-online/Module4/KNIMEJavaScript), make sure you use 'country' for the 'Category Column' )
+
+
+(Submit a screen shot) 
+
+12.  Repeat block 1 of the Python notebook (where we open and concatenate data, in KNIME).  You will have to figure out how to add column headers in KNIME, how to open (or select) only the first 100 rows, and how to concatenate data.  At the end of the process you should have a larger file which combines all years and genders of the data.  Take a screen shot of the work flow and final table, and insert into the word document.  
