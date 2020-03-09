@@ -48,4 +48,6 @@ final['seconds']=final['time'].apply(lambda x: timeToSeconds(x))
 
 (Submit a screen shot) 
 
+BONUS
+
 12.  Repeat block 1 of the Python notebook (where we open and concatenate data, in KNIME).  You will have to figure out how to add column headers in KNIME, how to open (or select) only the first 100 rows, and how to concatenate data.  At the end of the process you should have a larger file which combines all years and genders of the data.  Take a screen shot of the work flow and final table, and insert into the word document.  
