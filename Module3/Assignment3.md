@@ -9,11 +9,11 @@ Learn to plot data from groups
 
 Background
 
-Two years ago NIKE introduced a new shoe called the 4%, that was advertised as improving running times by 4%.  Very quickly almost all elite athletes began using the new shoe.  In this assignment you will look at data from 2014 and 2015 (before the new shoe waas introduced) and 2018 and 2019 (at which point the majority of athletes were using the new shoe).  
+Two years ago NIKE introduced a new shoe called the 4%, that was advertised as improving running times by 4%.  Very quickly almost all elite athletes began using the new shoe.  In this assignment you will look at data from 2013 and 2015 (before the new shoe waas introduced) and 2018 and 2019 (at which point the majority of athletes were using the new shoe).  
 
 You will group this data in an attempt to identify how running times changed for elite athletes after the introduction of the new shoe. 
 
-You will need the following datasets, men2014.txt, men2015.txt, men2018.txt, mean2019.txt, women2014.txt, women2015.txt, women2018.txt, and women2019.txt.  
+You will need the following datasets, men2013.txt, men2015.txt, men2018.txt, mean2019.txt, women2013.txt, women2015.txt, women2018.txt, and women2019.txt.  
 
 The datasets can be found on github here  
 
