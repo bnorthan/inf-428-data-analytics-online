@@ -2,10 +2,10 @@ Individual Assignment: 14 Points
  
 Purpose of assignment: 
 
-Learn to join datasets
-Learn to create groups
-Learn to analyze groups for trends
-Learn to plot data from groups
+Learn to join datasets  
+Learn to create groups  
+Learn to analyze groups for trends  
+Learn to plot data from groups  
 
 Background
 
