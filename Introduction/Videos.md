@@ -10,6 +10,6 @@ Oh yeah... to top it all off, all of a sudden we also got hit by a pandemic and 
 
 ## Videos for assignment 3  
 
-[Python Groupby](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
+[Python Data Wrangling](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
 
 [KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)
