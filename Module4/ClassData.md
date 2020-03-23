@@ -8,6 +8,8 @@ This example shows how to clean data.  This data had many numerical fields that 
 
 [See here for the example notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization_projects/mountains.ipynb)
 
+[See here for video](https://www.youtube.com/watch?v=iHOgT2xMlTg)
+
 In the example we needed to strip extraneous characters from the string.  
 
 [see here for description of strip function](https://www.journaldev.com/23625/python-trim-string-rstrip-lstrip-strip)  
