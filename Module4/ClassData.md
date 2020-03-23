@@ -1,4 +1,6 @@
-# Class Data
+# Class Data  
+
+This page will contain an evolving set of examples showing ways to clean and visualize the data INF 428/528 students will be using for their projects.  
 
 ## Adirondack Mountains  
 
