@@ -25,3 +25,8 @@ The dataset ```Food_Inspections.csv``` contains inspection info for over 200,000
 The goal of this notebook is to create a plot using only the largest groups of the dataset. This technique is useful when there are many small groups that we may not be interested in and want to see trends among the largest groups.  
 
 [The notebook is here](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization_projects/Restaurant_Groups.ipynb)  
+
+## Stocks (Apple vs Microsoft)
+
+[This example](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization_projects/Stocks.ipynb) shows how to use a line plot to show the stock price of microsoft and apple over a number of years.  
+
