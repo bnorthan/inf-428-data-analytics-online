@@ -30,7 +30,7 @@ Answer the following questions in a word document and submit on BlackBoard
 3.  Why do we call ```.head(numRunnersToAnalyze()``` at the end of each ```read_fwf``` call??  (hint try changing the parameter numRunnersToAnalyze to 10 and rerun the notebook)
 4.  Modify the notebook so that we also read the men and women datasets from 2013 and 2018 (hint you will have to copy and paste a bit).  Run the notebook over and take a screen shot.  After this modification you should have stats for years 2013 and 2018 in addition to 2015 and 2019.    
 5.  Change the ```numRunnersToAnalyze``` parameter to 10 and rerun the notebook.  Take a screen shot.  Are the trends in performance for the top 10 different than the top 100?? 
-6.  What does the following block do??  what id ```def``` used for??  Why is there no output when you run the block?
+6.  What does the following block do??  what is ```def``` used for??  Why is there no output when you run the block?
 ``` python
 def timeToSeconds(time):
     temp=time.split(':')
