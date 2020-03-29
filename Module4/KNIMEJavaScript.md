@@ -10,7 +10,9 @@ In this class we will dive deeply into programming with JavaScript.  Of course i
 
 As mentioned above there are some very good examples [here](https://www.knime.com/nodeguide/visualization/javascript)
 
-There is also an example on the class KNIME Server called VisualizeBasketballJavaScript.  
+There are also examples on the class KNIME Server called VisualizeBasketballJavaScript, and VisualizeStocks.  
+
+<img src="KNIMEServerJavaScript.jpg" width="300"> 
 
 ## Grouped bar chart example
 
@@ -47,7 +49,7 @@ To export as an HTML file
 
 <img src="InteractiveViewSave.jpg" width="300">   
 
-## Java Script Scatter plot
+## JavaScript Scatter plot
 
 ### Color Manager
 
@@ -61,5 +63,15 @@ Right click on the scatter plot node and choose 'Interactive View: Scatter plot'
 
 Note on the menu one can change the 'X Column' and the 'Y Column'.  This allows one to explore potential relationships between variables.  
 
-<img src="KNIMEScatterPlot.jpg" width="300">
+<img src="KNIMEScatterPlot.jpg" width="300"> 
+
+## JavaScript Time Series Line plot  
+
+The example 'VisualizeStocks' shows how to work with Time Series data and visualize it using line plots.  
+
+Please see this [video](https://youtu.be/bDBsVp4yZoc)  
+
+The example creates the below plot.  You should be able to see the plot by selecting 'Interactive View: Line Plot' from the Line Plot node menu.  
+
+<img src="StocksLinePlot.jpg" width="500"> 
 

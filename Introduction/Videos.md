@@ -16,4 +16,6 @@ Oh yeah... to top it all off, all of a sudden we also got hit by a pandemic and 
 
 ## Videos for assignmnet 4
 
-[Visualize Time Series with KNIME](https://youtu.be/bDBsVp4yZoc)
+[Visualize Time Series with KNIME](https://youtu.be/bDBsVp4yZoc)  
+
+[Cleaning numerical data (Adirondack Mountain data)](https://www.youtube.com/watch?v=iHOgT2xMlTg) 
