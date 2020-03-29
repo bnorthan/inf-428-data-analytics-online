@@ -13,3 +13,7 @@ Oh yeah... to top it all off, all of a sudden we also got hit by a pandemic and 
 [Python Data Wrangling](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
 
 [KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)
+
+## Videos for assignmnet 4
+
+[Visualize Time Series with KNIME](https://youtu.be/bDBsVp4yZoc)
