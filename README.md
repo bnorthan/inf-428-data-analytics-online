@@ -1,6 +1,7 @@
 # inf-428-data-analytics-online
 Online version of inf-428
 ## Links
+[Video tutorials for assignments](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/Videos)    
 [Course Goals](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/CourseGoals)  
 [Schedule](https://bnorthan.github.io/inf-428-data-analytics-online/Introduction/Schedule)  
 [Module 1 Introduction and tools](https://bnorthan.github.io/inf-428-data-analytics-online/Module1/Module1)  
