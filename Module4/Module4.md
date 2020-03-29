@@ -7,7 +7,7 @@
 REFERENCE MATERIAL  
 
 Chapter 6: Python Data Analysis  
-[KNIME JavaScript examples](https://www.knime.com/nodeguide/visualization/javascript)
+[KNIME JavaScript examples](https://www.knime.com/nodeguide/visualization/javascript)  
 Chapter 3: KNIME Beginner's luck
 
 ## Schedule
