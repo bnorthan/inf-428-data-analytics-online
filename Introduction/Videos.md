@@ -12,7 +12,9 @@ Oh yeah... to top it all off, all of a sudden we also got hit by a pandemic and 
 
 [Python Data Wrangling](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
 
-[KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)
+[KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)  
+
+[Python help + Python barplots for groups](https://www.youtube.com/watch?v=nk4curR3H_E&t=13s)  
 
 ## Videos for assignmnet 4
 
