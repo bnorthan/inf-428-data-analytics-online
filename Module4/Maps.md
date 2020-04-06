@@ -11,7 +11,7 @@ In case you need some background on installing [KNIME extensions](https://www.go
 go to file->Install KNIME Extensions  
 Search for 'open street map' 
 
-Get the test data [here](http://localhost:8888/edit/visualization_projects/pit311_small.csv) and load into KNIME.  
+Get the test data [here](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/visualization_projects/pit311_small.csv) and load into KNIME.  
 
 Set Latitude and Longitude on the OSM Map View.  
 <img src="MapConfigure.jpg" width="300"> 
