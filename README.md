@@ -8,7 +8,7 @@ Online version of inf-428
 [Module 2 Statistics](Module2/Module2)  
 [Module 3 Pandas and Data Wrangling with KNIME](Module3/Module3)   
 [Module 4 Visualization](Module4/Module4)  
-[Module 5 Machine Learning]()  
+[Module 5 Machine Learning](Module5/Module5)  
 
 Instructor: Brian Northan
 
