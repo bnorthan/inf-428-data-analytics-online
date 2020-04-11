@@ -63,7 +63,7 @@ Right click on the scatter plot node and choose 'Interactive View: Scatter plot'
 
 Note on the menu one can change the 'X Column' and the 'Y Column'.  This allows one to explore potential relationships between variables.  
 
-<img src="KNIMEScatterPlot.jpg" width="300"> 
+<img src="KNIMEScatterPlot.jpg" width="500"> 
 
 ## JavaScript Time Series Line plot  
 
