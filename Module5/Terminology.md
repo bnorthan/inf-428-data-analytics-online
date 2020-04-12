@@ -41,9 +41,14 @@ For example say we want to categorize people.  We could use height, weight, gend
 |32	|0	|1  
 |27	|1	|4   
 
+Feature vectors are a row in a dataset.  
+
 ## SUPERVISED VS UNSUPERVISED
 * Supervised  
   * Have datapoints (x) and labels (y)
+* The labels are usually  
+  * Classes (a cateogry, like dog or cat).
+  * Numerical values 
 * Machine learns relationships between x and y    
 * Unsupervised
   * Have datapoints (x) but no labels  
@@ -52,7 +57,9 @@ In this class we will focus on supervised learning... that is learning for which
 
 ## CLASSIFICATION  
 
-Classification is a type of machine learning where we identify "what" something is. 
+[This article](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7) talks about the differences between regression and classification.  
+
+Classification is a type of machine learning where we identify "what" something is.   In this case the labels are categories.   
 
 * Identify a target variable
   * Fore examle type of animal (dog, cat)  
@@ -64,7 +71,10 @@ Classification is a type of machine learning where we identify "what" something 
   * Apply to unknown (new) examples  
 
 ## REGRESSION  
-* Prediction of a numerical value
+* Prediction of a numerical value  
+* In this case the goal is to learn how to predict numeric outcomes.  
+    * For example predicting whether or not an individual will develop diabetes is a classification problem.
+    * predicting the value of their blood sugar is a regression problem.  
 * Linear regression
   * y: a output
   * x: one or more inputs

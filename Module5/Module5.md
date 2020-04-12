@@ -6,4 +6,4 @@
 |---|---|
 |[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Introduction) |  Introduction |
 |[Terminology](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Terminology) | Terminology |
-|
+|[Machine Learning Steps](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/MachineLearningSteps) | Collect <br> Train <br> Test|
