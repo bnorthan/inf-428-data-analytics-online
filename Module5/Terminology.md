@@ -14,7 +14,7 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Feature_(machine_learning)) has a good explanation.  
 
-To summarize a feature is a meaurable property used to describe a sample  
+To summarize a feature is a measurable property used to describe a sample  
 * Numerical
   * Weight, age, wins, runs scored
 * Binary  
@@ -44,6 +44,9 @@ For example say we want to categorize people.  We could use height, weight, gend
 Feature vectors are a row in a dataset.  
 
 ## SUPERVISED VS UNSUPERVISED
+
+[see this link](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d) for some background.
+
 * Supervised  
   * Have datapoints (x) and labels (y)
 * The labels are usually  
