@@ -14,4 +14,9 @@
   * This is machine learning  
   * Apply algorithm to known values so it can learn
 * Test algorithm
-  * Apply algorithm to known values to test performance
+  * Apply algorithm to known values to test performance Test algorithm
+  * DO NOT use training data for testing. 
+* Tune algorithm
+  * Adjust algorithm parameters to achieve better test performance
+* Validate algorithm 
+  * Apply algorithm to completely new test values to verify algorithm works on 'unseen' data.  That is test data that has not been tuned.  
