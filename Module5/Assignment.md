@@ -26,7 +26,7 @@ Compile all answers in a word document.  For questions that require Python noteb
 
 	For both embed a screenshot of the workflow
 
-8. Bonus Perform classification with Scikitlearn k-nearest neighbors  on the dating and titanic dataset, remember to divide into training and testing- 2 points .In class we have sometimes been testing our algorithms on extremely simple datasets.  Datasets so simple that a human can see what the answer is right away.  Why is it useful to test an algorithm on a very simple dataset??  (1 point)   (See python/machineLearning/DiabetesMachineLearning.ipynb)
+8. Perform classification with Scikitlearn k-nearest neighbors  on the dating and titanic dataset, remember to divide into training and testing- 2 points .In class we have sometimes been testing our algorithms on extremely simple datasets.  Datasets so simple that a human can see what the answer is right away.  Why is it useful to test an algorithm on a very simple dataset??  (1 point)   (See python/machineLearning/DiabetesMachineLearning.ipynb)
 
 8.  We have two drinks.  We know they are either Cola or Coffee.   We measure the following features 
 Temperature

@@ -11,4 +11,5 @@
 |[Scatter Plots](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Scatterplots) | Viualizing multiple classes |
 |[Sensitivity vs Specificity](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/SensitivitySpecificity) | Easiest way to get 100% Sensitivity ? <br> Easiest way to get 100% Specificity ? |
 |[K Nearest Neighbor](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/KNearest) | Partition <br> Train and Test <br> Score |
-|[Other Algorithms](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/OtherAlgorithms) | Decision Tress <br> Naive Bayes  |
+|[Other Algorithms](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/OtherAlgorithms) | Decision Trees <br> Naive Bayes  |
+|[Assignment](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/OtherAlgorithms) |   |
