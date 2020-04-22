@@ -13,3 +13,8 @@
 |[K Nearest Neighbor](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/KNearest) | Partition <br> Train and Test <br> Score |
 |[Other Algorithms](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/OtherAlgorithms) | Decision Trees <br> Naive Bayes  |
 |[Assignment](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Assignment) |   |
+
+## Videos
+[Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)
+[Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)
+

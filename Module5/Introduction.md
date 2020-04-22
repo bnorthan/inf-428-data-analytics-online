@@ -4,7 +4,11 @@
 
 * Chapter 10: Python Data Analysis  
 * Chapter 4: KNIME Beginner's Luck 
-* [Regression vs. Classification](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7)   
+* [Regression vs. Classification](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7)  
+
+## Videos
+[Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)
+[Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)
 
 ## What is Machine Learning ?
 
