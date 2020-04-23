@@ -5,9 +5,10 @@
 
 ## Sensitivity and Specificity  
 * Sensitivity  
-  * If a person has diabetes how often will it be detected? (True positives)  
+  * If a person has diabetes how often will it be detected? (True positives) 
+  * If 120 people have diabetes and 100 are detected Sensitivity is 100/120   
 * Specificity  
-  * If a person does not have diabetes how often will they test negative? (True negatives)  
+  * If a person does not have diabetes how often will they test negative? (True negatives) 120 people do not have diabetes, 110 are labeled negative then sensitivity = 110/120.   
 * What is the easiest way to get 100% Sensitivity  
 * What is the easiest way to get 100% Specificity  
 
@@ -28,3 +29,12 @@ System identifies 100 cases of diabetes, 80 are truly diabetes, Precision = 80/1
 120 cases of diabetes, system identifies 80, recall is 80/120 = .67.
 
 Recall is the same as sensitivity. 
+
+### Example  
+
+The following Metrics were calculated from the KNIME "diabetesKNearestNeighbor" workflow.  
+
+
+<img src="KNIMEMetrics.jpg" width="700">  
+
+See this [notebook]() to learn how each metric was calculated   

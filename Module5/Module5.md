@@ -15,6 +15,7 @@
 |[Assignment](https://bnorthan.github.io/inf-428-data-analytics-online/Module5/Assignment) |   |
 
 ## Videos
-[Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)
-[Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)
+[Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)  
+[Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)  
+
 
