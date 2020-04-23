@@ -37,4 +37,4 @@ The following Metrics were calculated from the KNIME "diabetesKNearestNeighbor" 
 
 <img src="KNIMEMetrics.jpg" width="700">  
 
-See this [notebook]() to learn how each metric was calculated   
+See this [notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/machine_learning/Metrics.ipynb) to learn how each metric was calculated   
