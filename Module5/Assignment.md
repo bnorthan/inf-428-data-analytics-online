@@ -3,7 +3,13 @@
 
 Machine Learning  
 
-Compile all answers in a word document.  For questions that require Python notebooks or KNIME workflows submit a screen shot.  
+Compile all answers in a word document.  For questions that require Python notebooks or KNIME workflows submit a screen shot. 
+
+The data needed for the assignment is [here](https://github.com/bnorthan/inf-428-data-analytics-online/tree/master/python/notebooks/machine_learning)
+
+titanic_preprocessed.csv - it the titanic data with some preprocessing done to deal with missing data.  Use this for the titanic question. 
+
+dataingdata.csv - this is the dating data
 
 1. Explain why we divide data into testing and training sets.     
 2. A class takes a test and the entire class does horrible.  The prof gives them a second chance.  The next week  
