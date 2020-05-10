@@ -5,11 +5,14 @@ Machine Learning
 
 Compile all answers in a word document.  For questions that require Python notebooks or KNIME workflows submit a screen shot. 
 
-The data needed for the assignment is [here](https://github.com/bnorthan/inf-428-data-analytics-online/tree/master/python/notebooks/machine_learning)
+The data needed for the assignment is [here](https://github.com/bnorthan/inf-428-data-analytics-online/tree/master/python/notebooks/machine_learning)  
+
+dataingdata.csv - this is the dating data.  Should be ready for Machine Learning in KNIME.  May need to convert the 'does she like' column for processing with Python.    
+
+[titanic data](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/machine_learning/titanic_data.csv) - is the original titanic data.  Useful starting point for Python.  [This notebook](https://github.com/bnorthan/inf-428-data-analytics-online/blob/master/python/notebooks/machine_learning/TitanicToNumeric.ipynb) shows additional preprocessing steps that may be needed.  
 
 titanic_preprocessed.csv - it the titanic data with some preprocessing done to deal with missing data.  Use this for the titanic question.  (note more preprocessing may be needed)   
 
-dataingdata.csv - this is the dating data  
 
 1. Explain why we divide data into testing and training sets.     
 

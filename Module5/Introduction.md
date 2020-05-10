@@ -7,13 +7,15 @@
 * [Regression vs. Classification](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7)  
 
 ## Videos
+
 [Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)
 [Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)
 [Machine Learning Metrics](https://www.youtube.com/watch?v=LS6BSL4mKM0&t=1s)
-[Machine Learning with Python](https://www.youtube.com/watch?v=qQm4MWHd6N8&t=3s)
-
-
+[Machine Learning with Python](https://www.youtube.com/watch?v=qQm4MWHd6N8&t=3s)  
+[Naive Bayes with KNIME](https://www.youtube.com/watch?v=_INtXMJfQ-M&t=9s)  
+[Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)
 [Bayes Rule and Naive Baye's with KNIME](https://youtu.be/_INtXMJfQ-M)
+
 ## What is Machine Learning ?
 
 * Automated pattern analysis  
