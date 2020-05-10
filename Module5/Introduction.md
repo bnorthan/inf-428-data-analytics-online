@@ -12,9 +12,8 @@
 [Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)
 [Machine Learning Metrics](https://www.youtube.com/watch?v=LS6BSL4mKM0&t=1s)
 [Machine Learning with Python](https://www.youtube.com/watch?v=qQm4MWHd6N8&t=3s)  
-[Naive Bayes with KNIME](https://www.youtube.com/watch?v=_INtXMJfQ-M&t=9s)  
-[Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)
 [Bayes Rule and Naive Baye's with KNIME](https://youtu.be/_INtXMJfQ-M)
+[Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)
 
 ## What is Machine Learning ?
 
