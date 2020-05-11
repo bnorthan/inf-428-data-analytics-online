@@ -14,13 +14,13 @@ dataingdata.csv - this is the dating data.  Should be ready for Machine Learning
 titanic_preprocessed.csv - it the titanic data with some preprocessing done to deal with missing data.  Use this for the titanic question.  (note more preprocessing may be needed)   
 
 
-1. Explain why we divide data into testing and training sets.     
+1. Explain why we divide data into testing and training sets. (1 point)    
 
-2. A class takes a test and the entire class does horrible.  The prof gives them a second chance.  The next week   a) The prof gives them the exact same test over again, same questions, same answers.  The students do well this time.  Have they really learned anything?  b) Alternatively the prof give them a slightly different test on the same material.  Different questions but on the same concepts.  The students do well this time.  Have they learned anything?   c) Explain how this anecdote relates to the concept of 'self prediction'   See [this video](https://www.youtube.com/watch?v=5fxB3XPY0CU) for hints.  
+2. A class takes a test and the entire class does horrible.  The prof gives them a second chance.  The next week   a) The prof gives them the exact same test over again, same questions, same answers.  The students do well this time.  Have they really learned anything?  b) Alternatively the prof give them a slightly different test on the same material.  Different questions but on the same concepts.  The students do well this time.  Have they learned anything?   c) Explain how this anecdote relates to the concept of 'self prediction'   See [this video](https://www.youtube.com/watch?v=5fxB3XPY0CU) for hints.  (1 point)  
 
-3.  In KNIME what node can be used to divide data into training and testing sets?  
+3.  In KNIME what node can be used to divide data into training and testing sets? (1 point) 
 
-4.  Explain what overfitting is. (the [video](https://www.youtube.com/watch?v=5fxB3XPY0CU) referenced in part 2 may also be useful here)  
+4.  Explain what overfitting is. (the [video](https://www.youtube.com/watch?v=5fxB3XPY0CU) referenced in part 2 may also be useful here)  (1 point)  
 
 5.  Make a scatter plot of some the indian-diabetes data using distinct types of points (for example distinct colors) for each class (use KNIME or Python).  Find two features (columns) that visually do a good job of separating the data - 2 points.  Submit screen shot.   
 
@@ -39,7 +39,7 @@ titanic_preprocessed.csv - it the titanic data with some preprocessing done to d
 
 9. In class we have sometimes been testing our algorithms on extremely simple datasets.  Datasets so simple that a human can see what the answer is right away.  Why is it useful to test an algorithm on a very simple dataset??  (1 point)   (See python/machineLearning/DiabetesMachineLearning.ipynb)
 
-10.  We have two drinks.  We know they are either Cola or Coffee.   We measure the following features   
+10.  We have two classes of drink.  We know they are either Cola or Coffee.   We measure the following features   
 Temperature  
 % carbonation  
 
