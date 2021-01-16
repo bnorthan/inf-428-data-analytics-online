@@ -3,7 +3,7 @@
 Assignment 1 is worth 14 marks.  The main purpose of the assignment is to have you   
 
 1. Install KNIME
-2. Access KNIME server, download and transfer examples to your local workspace.
+2. Access KNIME examples, download and transfer examples to your local workspace.
 3. Install Annaconda.
 4. Join Github, Install GitHub Desktop. Get the ipython notebook examples from github and run them on your local machine. 
 5. Run 'opencsv' examples in KNIME and IPython. 
