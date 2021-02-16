@@ -2,7 +2,9 @@
 
 # 2021
 
-2021 is the second year INF428/528 has been taught online.  The course continues to evolve.  We will re-use some of the videos from last year as needed, and I will produce new videos based on questions I get.  So please, if you have any questions post right away to the "ask a question" forum.  If the question can't be answered concisely it will become a video.  More to come soon...  
+2021 is the second year INF428/528 has been taught online.  The course continues to evolve.  We will re-use some of the videos from last year as needed, and I will produce new videos based on questions I get.  So please, if you have any questions post right away to the "ask a question" forum.  If the question can't be answered concisely it will become a video.  
+
+[Some tips on how to find videos, github desktop and Jupyter notebook](https://youtu.be/8Ti2z-OV-6M0)  
 
 # 2020
 
