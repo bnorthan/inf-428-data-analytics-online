@@ -20,5 +20,3 @@ These measures are used to describe the most typical value in a set of values.  
  * <a href="https://www.mathsisfun.com/data/standard-deviation.html">Math is fun standard deviation??</a>  
  * <a href="http://www.separatinghyperplanes.com/2014/04/why-do-statisticians-use-standard.html">Why standard deviation??</a>  
    
-
-## test
