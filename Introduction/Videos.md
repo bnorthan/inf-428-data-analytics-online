@@ -6,6 +6,11 @@
 
 [Some tips on how to find videos, github desktop and Jupyter notebook](https://youtu.be/8Ti2z-OV-6M0)  
 
+[Loading Sports Stats from the 'reference.com' sites](https://youtu.be/3F5YFQ7L9dg)
+
+[Some tips for Module 2 Assignment, and an example about a hypothetical Covid Vaccine](
+https://youtu.be/yChmx3XXYhU)
+
 # 2020
 
 2020 is the first year INF428/528 has been taught online, and it has been a learning experience for myself as to the best way to teach material.  I have been adding videos as needed based on questions I get.  I will continue to do so (if you are struggling with something ask, and I will make a video) and summarize them here.   
