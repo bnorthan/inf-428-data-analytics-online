@@ -11,7 +11,8 @@ Marks checklist
 
 | sub-module|Description|
 |---|---|
-|[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Statistics) | Why do we use statistical tests?<br> Why do we need different types of statistical distributions? |
+|[Introduction](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Statistics) | Why do we use statistics ?<br> Why do we need statistical tests? |
+|[Simple Descriptive Statistics](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Statistics) | Measures of statistical value <br> Measured of Variation |
 |[Discussion and Reading](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/Discussion) | <br> |  
 |[Descriptive Statistics in Practice](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/StatisticsInPractice) | Use Python and KNIME to calculate descriptive statistics|  
 |[Hypothesis Testing](https://bnorthan.github.io/inf-428-data-analytics-online/Module2/HypothesisTesting) | P-Values and T-Tests|  
