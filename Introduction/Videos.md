@@ -14,7 +14,7 @@ https://youtu.be/yChmx3XXYhU)
 
 [Opening up KNIME, connect to KNIME Server, get example workflow, modify it to use Jayson Tatum's stats](https://youtu.be/fig_xwAirZw)
 
-[From last year but still helpful for assignment 2 KNIME T-test](https://www.youtube.com/watch?v=EOeGnLEBJrw)
+[KNIME T-test (From last year but still helpful for assignment 2)](https://www.youtube.com/watch?v=EOeGnLEBJrw)
 
 
 # 2020
