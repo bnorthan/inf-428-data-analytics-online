@@ -14,6 +14,9 @@ https://youtu.be/yChmx3XXYhU)
 
 [Opening up KNIME, connect to KNIME Server, get example workflow, modify it to use Jayson Tatum's stats](https://youtu.be/fig_xwAirZw)
 
+[From last year but still helpful for assignment 2 KNIME T-test](https://www.youtube.com/watch?v=EOeGnLEBJrw)
+
+
 # 2020
 
 2020 is the first year INF428/528 has been taught online, and it has been a learning experience for myself as to the best way to teach material.  I have been adding videos as needed based on questions I get.  I will continue to do so (if you are struggling with something ask, and I will make a video) and summarize them here.   
