@@ -16,6 +16,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [KNIME T-test (From last year but still helpful for assignment 2)](https://www.youtube.com/watch?v=EOeGnLEBJrw)
 
+[Some helpful tips on Github and Confidence Intervals, relevant for Assignment 2](https://youtu.be/l6bo6tbz8R4)
+
 
 # 2020
 
