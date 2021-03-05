@@ -10,7 +10,9 @@ Review and run the [Descriptive Statistics Notebook](https://github.com/bnorthan
 
 ## In KNIME
 
-[This video shows how to open up NBA Basketball Star Jayson Tatum's stats in KNIME, and compute basic statistics with them](https://www.youtube.com/watch?v=fig_xwAirZw)
+[This video shows how to open up NBA Basketball Star Jayson Tatum's stats in KNIME, and compute basic statistics with them](https://www.youtube.com/watch?v=fig_xwAirZw)  
+
+If you prefer to skip the video try performing the following steps in KNIME (if you are not yet comfortable with terms like 'node repository' I suggest watching the video).  
 
 1.  Search for 'Statistics' in the KNIME node repository (bottom left panel)
 2.  Drag the Statistics node into your workflow
