@@ -24,7 +24,7 @@ Follow the instructions in the video, when you get to the 'Edit Mount Point' dia
 
 The Server Address for 2021 is http://108.44.46.17:8080 
 
-(not: the IP address in the screen shot is from 2020, if the year is not 2021 the IP address may have changed again). 
+(not: the IP address in the screen shot is from 2020, don't use that one, use the one above.  if the year is not 2021 the IP address may have changed again). 
 
 Username: -your user name- (see announcement on blackboard)  
 Password: inf428  
