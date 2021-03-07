@@ -22,7 +22,10 @@ Please [watch this video](https://www.youtube.com/watch?v=dPoWbC-mODM).
 
 Follow the instructions in the video, when you get to the 'Edit Mount Point' dialog, make sure the Server Address and 'MountID' are as in the below screen shot.  The username should be your unique username
 
-Server address: http://96.236.26.55:8080
+The Server Address for 2021 is http://108.44.46.17:8080 
+
+(not: the IP address in the screen shot is from 2020, if the year is not 2021 the IP address may have changed again). 
+
 Username: -your user name- (see announcement on blackboard)  
 Password: inf428  
 
