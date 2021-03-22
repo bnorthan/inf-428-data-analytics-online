@@ -18,6 +18,15 @@ https://youtu.be/yChmx3XXYhU)
 
 [Some helpful tips on Github and Confidence Intervals, relevant for Assignment 2](https://youtu.be/l6bo6tbz8R4)
 
+[Wrangling airline data](https://youtu.be/ADqbMrq1qnk)
+
+[Python Data Wrangling](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
+
+[KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)  
+
+[Python help + Python barplots for groups](https://www.youtube.com/watch?v=nk4curR3H_E&t=13s)  
+
+[Conditional Indexing with Covid data](https://youtu.be/s1pAcmjmkJ0)
 
 # 2020
 
