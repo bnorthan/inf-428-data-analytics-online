@@ -30,6 +30,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [Another Groupby example](https://youtu.be/uz03zy9HhWg)
 
+[Trouble shooting for assignment 3](https://youtu.be/89e8jRBl7E8)
+
 # 2020
 
 2020 is the first year INF428/528 has been taught online, and it has been a learning experience for myself as to the best way to teach material.  I have been adding videos as needed based on questions I get.  I will continue to do so (if you are struggling with something ask, and I will make a video) and summarize them here.   
