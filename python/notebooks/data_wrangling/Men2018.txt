@@ -1,4 +1,4 @@
-﻿2:01:39   Eliud KIPCHOGE         KEN     1   Berlin         16 SEP
+2:01:39   Eliud KIPCHOGE         KEN     1   Berlin         16 SEP
 2:04:00   Mosinet GEREMEW        ETH     1   Dubai          26 JAN
 2:04:02   Leul GEBRESILASE       ETH     2   Dubai          26 JAN
 2:04:06   Tamirat TOLA           ETH     3   Dubai          26 JAN
@@ -198,4 +198,4 @@
 2:09:42   Duncan MAIYO           KEN     4   Rennes         28 OCT
 2:09:43   Tadashi ISSHIKI        JPN    13   Tokyo          25 FEB
 2:09:44   Seboka NIGUSSE         ETH     1   Hannover       08 APR
-2:09:44   Edwin KOECH            KEN     1   Dalian         13 MAY 
+2:09:44   Edwin KOECH            KEN     1   Dalian         13 MAY
