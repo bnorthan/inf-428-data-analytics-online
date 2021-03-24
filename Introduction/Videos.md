@@ -24,13 +24,13 @@ https://youtu.be/yChmx3XXYhU)
 
 [KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)  
 
-[Python help + Python barplots for groups](https://www.youtube.com/watch?v=nk4curR3H_E&t=13s)  
+[Data Wrangling with Airline Safety Data](https://youtu.be/O5h6cNkqFXM)
 
-[Conditional Indexing with Covid data](https://youtu.be/s1pAcmjmkJ0)
+[Conditional Indexing with Covid data](https://youtu.be/iQG88w8EG-c)
 
-[Another Groupby example](https://youtu.be/uz03zy9HhWg)
+[Group Obesity Stats](https://youtu.be/_GJWo9kXC9E)
 
-[Trouble shooting for assignment 3](https://youtu.be/89e8jRBl7E8)
+[Trouble shooting for assignment 3](https://youtu.be/H-ddBH0BnBc)
 
 # 2020
 
