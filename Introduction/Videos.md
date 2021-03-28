@@ -30,6 +30,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [Trouble shooting for assignment 3](https://youtu.be/H-ddBH0BnBc)
 
+[Write a csv from Python, read it from KNIME (useful for assignment 3)](https://youtu.be/F2mJrOGUtKw)
+
 
 # 2020
 
