@@ -32,6 +32,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [Write a csv from Python, read it from KNIME (useful for assignment 3)](https://youtu.be/F2mJrOGUtKw)
 
+[Heatmaps and converting categorical data to numeric (Advanced)](https://www.youtube.com/watch?v=-rNag2C6cS4)
+
 
 # 2020
 
