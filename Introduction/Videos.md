@@ -18,19 +18,20 @@ https://youtu.be/yChmx3XXYhU)
 
 [Some helpful tips on Github and Confidence Intervals, relevant for Assignment 2](https://youtu.be/l6bo6tbz8R4)
 
-[Wrangling airline data](https://youtu.be/ADqbMrq1qnk)
+[Wrangling airline data](https://youtu.be/O5h6cNkqFXM)
 
 [Python Data Wrangling](https://www.youtube.com/watch?v=F1pbHwRbnnQ)
 
 [KNIME BAR Plot](https://www.youtube.com/watch?v=EWJGUu98C6s)  
-
-[Data Wrangling with Airline Safety Data](https://youtu.be/O5h6cNkqFXM)
 
 [Conditional Indexing with Covid data](https://youtu.be/iQG88w8EG-c)
 
 [Group Obesity Stats](https://youtu.be/_GJWo9kXC9E)
 
 [Trouble shooting for assignment 3](https://youtu.be/H-ddBH0BnBc)
+
+[Write a csv from Python, read it from KNIME (useful for assignment 3)](https://youtu.be/F2mJrOGUtKw)
+
 
 # 2020
 
