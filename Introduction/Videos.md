@@ -34,6 +34,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [Heatmaps and converting categorical data to numeric (Advanced)](https://www.youtube.com/watch?v=-rNag2C6cS4)
 
+[Heatmaps and barcharts in KNIME (Intermediate)](https://youtu.be/dudv1CQao5o)
+
 
 # 2020
 
