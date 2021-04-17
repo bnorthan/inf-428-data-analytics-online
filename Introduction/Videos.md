@@ -36,6 +36,7 @@ https://youtu.be/yChmx3XXYhU)
 
 [Heatmaps and barcharts in KNIME (Intermediate)](https://youtu.be/dudv1CQao5o)
 
+[Visualize Time Series with KNIME](https://youtu.be/bDBsVp4yZoc) 
 
 # 2020
 
