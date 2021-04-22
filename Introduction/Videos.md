@@ -4,19 +4,24 @@
 
 2021 is the second year INF428/528 has been taught online.  The course continues to evolve.  We will re-use some of the videos from last year as needed, and I will produce new videos based on questions I get.  So please, if you have any questions post right away to the "ask a question" forum.  If the question can't be answered concisely it will become a video.  
 
+## Module 1 - Introduction
+
 [Some tips on how to find videos, github desktop and Jupyter notebook](https://youtu.be/8Ti2z-OV-6M0)  
 
 [Loading Sports Stats from the 'reference.com' sites](https://youtu.be/3F5YFQ7L9dg)
 
+## Module 2 - Statistics
+
 [Some tips for Module 2 Assignment, and an example about a hypothetical Covid Vaccine](
 https://youtu.be/yChmx3XXYhU)
-
 
 [Opening up KNIME, connect to KNIME Server, get example workflow, modify it to use Jayson Tatum's stats](https://youtu.be/fig_xwAirZw)
 
 [KNIME T-test (From last year but still helpful for assignment 2)](https://www.youtube.com/watch?v=EOeGnLEBJrw)
 
 [Some helpful tips on Github and Confidence Intervals, relevant for Assignment 2](https://youtu.be/l6bo6tbz8R4)
+
+## Module 3 - Data Wrangling
 
 [Wrangling airline data](https://youtu.be/O5h6cNkqFXM)
 
@@ -32,11 +37,15 @@ https://youtu.be/yChmx3XXYhU)
 
 [Write a csv from Python, read it from KNIME (useful for assignment 3)](https://youtu.be/F2mJrOGUtKw)
 
+## Module 4 - Data Visualization
+
 [Heatmaps and converting categorical data to numeric (Advanced)](https://www.youtube.com/watch?v=-rNag2C6cS4)
 
 [Heatmaps and barcharts in KNIME (Intermediate)](https://youtu.be/dudv1CQao5o)
 
 [Visualize Time Series with KNIME](https://youtu.be/bDBsVp4yZoc) 
+
+[Visualizing data using KNIME javascript nodes](https://www.youtube.com/watch?v=V9gYJJrnvB0)
 
 # 2020
 
