@@ -52,10 +52,15 @@ https://youtu.be/yChmx3XXYhU)
 ## Module 5 Machine Learning
 
 [Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)  
+
 [Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)  
+
 [Machine Learning Metrics](https://www.youtube.com/watch?v=LS6BSL4mKM0&t=1s)  
+
 [Machine Learning with Python](https://www.youtube.com/watch?v=qQm4MWHd6N8&t=3s)  
+
 [Bayes Rule and Naive Baye's with KNIME](https://youtu.be/_INtXMJfQ-M)   
+
 [Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)   
 
 # 2020
