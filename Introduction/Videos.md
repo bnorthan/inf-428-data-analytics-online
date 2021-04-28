@@ -49,6 +49,15 @@ https://youtu.be/yChmx3XXYhU)
 
 [Visualizing data using Python, Matplotlib, and Pandas](https://youtu.be/CTPtyW5bqLw)
 
+## Machine Learning
+
+[Machine Learning Terminology](https://www.youtube.com/watch?v=KjvKfRTH7Ac&t=2s)  
+[Machine Learning with KNIME](https://youtu.be/KdGyOyhZ40s)  
+[Machine Learning Metrics](https://www.youtube.com/watch?v=LS6BSL4mKM0&t=1s)  
+[Machine Learning with Python](https://www.youtube.com/watch?v=qQm4MWHd6N8&t=3s)  
+[Bayes Rule and Naive Baye's with KNIME](https://youtu.be/_INtXMJfQ-M)   
+[Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)   
+
 # 2020
 
 2020 is the first year INF428/528 has been taught online, and it has been a learning experience for myself as to the best way to teach material.  I have been adding videos as needed based on questions I get.  I will continue to do so (if you are struggling with something ask, and I will make a video) and summarize them here.   
