@@ -63,6 +63,8 @@ https://youtu.be/yChmx3XXYhU)
 
 [Self Prediction](https://www.youtube.com/watch?v=5fxB3XPY0CU)   
 
+[Hints on converting string data to numeric for assignment 5](https://www.youtube.com/watch?v=8Kbu81KGKuE)
+
 # 2020
 
 2020 is the first year INF428/528 has been taught online, and it has been a learning experience for myself as to the best way to teach material.  I have been adding videos as needed based on questions I get.  I will continue to do so (if you are struggling with something ask, and I will make a video) and summarize them here.   
