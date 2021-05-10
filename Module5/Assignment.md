@@ -22,7 +22,7 @@ titanic_preprocessed.csv - it the titanic data with some preprocessing done to d
 
 4.  Explain what overfitting is. (the [video](https://www.youtube.com/watch?v=5fxB3XPY0CU) referenced in part 2 may also be useful here)  (1 point)  
 
-5.  Make a scatter plot of some the indian-diabetes data using distinct types of points (for example distinct colors) for each class (use KNIME or Python).  Find two features (columns) that visually do a good job of separating the data - 2 points.  Submit screen shot.   
+5.  Make a scatter plot of some of the indian-diabetes data using distinct types of points (for example distinct colors) for each class (use KNIME or Python).  Find two features (columns) that visually do a good job of separating the data - 2 points.  Submit screen shot.   
 
 6.  Describe K-Nearest Neighbor algorithm in words (submit  word doc or e-mail) -1 points  
 
